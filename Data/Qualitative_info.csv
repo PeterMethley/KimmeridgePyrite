@@ -1,0 +1,54 @@
+name,category,height,MB_bed,MB_lithology,py_index,fossil_index,biodiversity,phi,description
+KC-2-0,Carbonate,0.94,3,Limestone,,0,0,4,"cracked upper surface, sparse fossil impressions. Micropeloidal?"
+KC-2-1,Mudstone,1.38,4,Med. dark grey marl,0,1,2,5,sandy marl? sparse aragonite fossils
+KC-2-2,Mudstone,1.68,5,Med. dark grey marl,0,1,1,5,sandy marl? sparse aragonite fossils. Poor undulose lamination
+KC-2-2.5,Mudstone,2.13,5,Med. dark grey marl,0,1,1,5,"better, more // lamination"
+KC-2-3,Mudstone,2.6,6,Greyish black - brownish black mudstone,1,2,3,5,"good x-lam, sparse aragonite fossils"
+KC-2-3.5,Mudstone,3,7,Med. dark grey - greenish black shale,0,3,2,5,~5% aragonite fossils
+KC-2-4.5,Mudstone,4.51,7,Med. dark - dark grey shale,2,4,4,4,"~10% aragonite fossils, fine sand shell fragments"
+KC-2-5,Mudstone,5.16,8,Dark grey - greenish black - olive black laminated shale,0,2,2,6,sparse aragonite shells (inc Protocardium) and a few fine sand shell fragments. Some rusty patches
+KC-2-6,Mudstone,6.15,10,Greyish black - brownish black mudstone,1,4,4,5,"~10% aragonite fossils (inc Lucida), fine sand shell fragments, rusty patches"
+KC-2-6p,Pervasively pyritised regions,6.15,10,Greyish black - brownish black mudstone,3,4,4,5,
+KC-2-6.5,Mudstone,6.5,11,Med. dark - dark grey shale,3,2,4,6,"sparse aragonite shells, a few fine-med sand shell fragments"
+KC-2-7,Mudstone,7.27,14,Greyish black - brownish black mudstone,0,2,1,6,"OK // lam (from aligned shell fragments), sparse rusty shells, sparse fine-med sand shell fragments"
+KC-2-8,Mudstone,7.71,15,Med. dark - dark grey shale,1,3,2,6,"A few large (~5mm) shell fragments, poor lamination from alignment"
+KC-2-9,Mudstone,8.2,16,Greyish black - brownish black mudstone,0,3,1,6,"coarse, flaky lamination. No shell fragments. Sparse aragonite/rusty Isocyprina"
+KC-2-9p,Pervasively pyritised regions,8.2,16,Greyish black - brownish black mudstone,4,3,1,6,
+KC-2-10,Mudstone,8.64,17,Med. dark grey marl,1,3,1,5,"more resistant, lam defined only by aligned shells (up to 1mm)"
+KC-2-11,Mudstone,9.47,18,Dark grey - greenish black - olive black laminated shale,2,4,4,7,~10% aragonite/calcite/impressions of shells. Poor x-lam
+KC-2-12,Mudstone,9.91,19,Med. dark - dark grey shale,3,3,4,6,~5% aragonite/calcite/impressions of shells. No lam
+KC-2-13,Mudstone,10.73,20,Dark grey - greenish black - olive black laminated shale,1,3,2,6,"~5% Isocyprina shells, some calcite, some calcite on top of rusty pyrite? Coarse flakey lam"
+KC-2-14,Mudstone,11.19,21,Med. dark grey - greenish black shale,0,3,2,6,"~5% calcite Isocyprina + Protocardium shells, poor undulose lam "
+KC-2-14.5,Mudstone,11.66,22,Dark grey - greenish black - olive black laminated shale,1,4,3,4,Some ~2mm thick lags of shell fragments (and black mica/graphite flakes?) up to 1mm. Other ~3mm layers containing ~40% Isocyprina shells (calcite or full pyrite). Red 'nodules' Poor undulose lam 
+KC-3-A,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,1,4,1,4,
+KC-3-B,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,2,3,1,4,
+KC-3-C,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,4,2,2,4,
+KC-3-D,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,5,2,2,4,
+KC-3-E,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,4,3,1,4,
+KC-3-F,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,4,4,1,4,
+KC-3-G,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,5,5,2,4,
+KC-3-H,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,3,4,2,4,
+KC-3-I,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,1,4,2,4,
+KC-3-J,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,5,4,3,4,
+KC-3-K,Bed 22,11.66,22,Dark grey - greenish black - olive black laminated shale,1,4,2,4,
+KC-2-15,Mudstone,12.2,23,Med. dark - dark grey shale,0,2,1,6,Coarse flakey lam. Sparse Isocyprina fossils. Patches of 0.5mm shell fragments.
+KC-2-15.5,Mudstone,12.78,23,Med. dark - dark grey shale,1,3,1,6,Contains ~10% calcite Isocyprina fossils
+KC-2-16,Mudstone,13.28,24,Dark grey - greenish black - olive black laminated shale,4,3,2,4,"Resistant, red colouring. 0.1~0.4 mm shell fragments. ~1cm Isocyprina shells (rusty) "
+KC-2-17,Mudstone,13.69,25,Med. dark - dark grey shale,0,2,1,6,Poor // lam. Sparse calcite Isocyprina 
+KC-2-18,Mudstone,14.12,26,Dark grey - greenish black - olive black laminated shale,4,4,2,4,"~30% VF sand shell fragments and black flakes. Resistant, Sparce Isocyprina and ammonites (as cream calcite)."
+KC-2-19,Mudstone,14.67,27,Med. dark - dark grey shale,0,1,1,7,flaky lamination. Sparse 0.1~1mm shell fragments.
+KC-2-20,Mudstone,15.12,28,Dark grey - greenish black - olive black laminated shale,3,2,3,6,~5% VF sand shell fragments. Sparse calcite Isocyprina and a pyrite oyster (removed)
+KC-2-21,Mudstone,15.61,30,Dark grey - greenish black - olive black laminated shale,1,1,2,7,"Sparse, slightly broken Isocyprina"
+KC-2-21.5,Mudstone,16.21,30,Dark grey - greenish black - olive black laminated shale,2,2,4,6,~20% VF sand shell fragments and black flakes. ~5% calcite Isocyprina and ammonite fragments. ~0.3 mm Pyrite 'Framboids'?
+KC-2-22,Mudstone,17.01,31,Med. dark - dark grey shale,2,3,2,5,Some grains are rusty orange. Contains ~5% calcite Isocyprina and ammonite fragments. Poor // lamination
+KC-2-22p,Pervasively pyritised regions,17.01,31,Med. dark - dark grey shale,4,4,2,5,
+KC-2-23,Mudstone,17.42,32,Greyish black - brownish black mudstone,2,3,1,6,~1mm flakey lamination. ~3% rusty calcite Isocyprina
+KC-2-24,Mudstone,18.21,33,Med. dark grey - greenish black shale,3,3,2,6,"~3% white calcite Isocyprina. A few 0.5mm echinoderm ossicles, with pyrite preserving stereom while it is lost in underlying calcite (photo) Good x-lam"
+KC-2-25,Mudstone,18.98,34,Greyish black - brownish black mudstone,0,1,1,6,Contains ~5% VF sand shell fragments. Sparse infaunal bivlalves (white calcite)
+KC-2-25.5,Mudstone,19.33,35,Med. dark grey - greenish black shale,2,1,1,7,~1mm flakey lamination. Some bands of fine sand shell fragments. Rusty aragonite Isocyprina shells
+KC-2-26,Mudstone,19.73,36,Greyish black - brownish black mudstone,3,4,1,4,"~20% shell fragments and black flakes. Unidentified orange-white calcite shells, probably with oxidised pyrite underneath."
+KC-2-26.5,Mudstone,20.16,37,Med. dark grey - greenish black shale,,0,0,6,"Coarse flakey lamination, poor undulose lamination. Rare shell fragments."
+KC-2-27,Mudstone,20.84,37,Med. dark grey - greenish black shale,1,2,2,6,"Sparse 0.05 ~ 1mm shell fragments. White calcite Isocyprina and some ammonites. Rare, tiny free pyrite crystals. Coarse flakey lam"
+KC-2-28,Mudstone,21.44,38,Greyish black - brownish black mudstone,0,3,2,6,"Coarse, flakey lamination. Some layers up to ~20% cream/ orange calcite Isocyprina and ammonite fragments. "
+KC-2-29,Mudstone,21.77,39,Med. dark grey - greenish black shale,0,3,1,5,"Coarse, flakey lamination. Some layers up to ~20% cream/ orange calcite Isocyprina"
+KC-2-30,Carbonate,22.21,40,Dolostone,,0,0,5,"Very resistant grey dolostone, weathering yellow-orange."

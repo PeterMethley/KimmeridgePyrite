@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pytoHR_py_plot1.svg"
+   id="svg870"
+   version="1.1"
+   viewBox="0 0 740 700"
+   style=""
+   height="700"
+   width="740"
+   class="main-svg">
+  <metadata
+     id="metadata874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g2230"
+     inkscape:cy="286.85642"
+     inkscape:cx="350.60804"
+     inkscape:zoom="0.29321429"
+     showgrid="false"
+     id="namedview872"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs-5b2c5c">
+    <g
+       id="g16"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip5b2c5cxyplot">
+        <rect
+           id="rect4"
+           height="564"
+           width="570" />
+      </clipPath>
+      <clipPath
+         id="clip5b2c5cx"
+         class="axesclip">
+        <rect
+           id="rect7"
+           height="700"
+           width="570"
+           y="0"
+           x="60" />
+      </clipPath>
+      <clipPath
+         id="clip5b2c5cy"
+         class="axesclip">
+        <rect
+           id="rect10"
+           height="564"
+           width="740"
+           y="76"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip5b2c5cxy"
+         class="axesclip">
+        <rect
+           id="rect13"
+           height="564"
+           width="570"
+           y="76"
+           x="60" />
+      </clipPath>
+    </g>
+    <g
+       id="g39"
+       class="gradients">
+      <linearGradient
+         id="g5b2c5c-cbcoloraxis"
+         y2="0"
+         y1="1"
+         x2="0"
+         x1="0">
+        <stop
+           id="stop18"
+           stop-opacity="1"
+           stop-color="rgb(253, 231, 37)"
+           offset="0%" />
+        <stop
+           id="stop20"
+           stop-opacity="1"
+           stop-color="rgb(181, 222, 43)"
+           offset="11.11111111111111%" />
+        <stop
+           id="stop22"
+           stop-opacity="1"
+           stop-color="rgb(110, 206, 88)"
+           offset="22.22222222222222%" />
+        <stop
+           id="stop24"
+           stop-opacity="1"
+           stop-color="rgb(53, 183, 121)"
+           offset="33.33333333333333%" />
+        <stop
+           id="stop26"
+           stop-opacity="1"
+           stop-color="rgb(31, 158, 137)"
+           offset="44.44444444444444%" />
+        <stop
+           id="stop28"
+           stop-opacity="1"
+           stop-color="rgb(38, 130, 142)"
+           offset="55.55555555555556%" />
+        <stop
+           id="stop30"
+           stop-opacity="1"
+           stop-color="rgb(49, 104, 142)"
+           offset="66.66666666666666%" />
+        <stop
+           id="stop32"
+           stop-opacity="1"
+           stop-color="rgb(62, 73, 137)"
+           offset="77.77777777777779%" />
+        <stop
+           id="stop34"
+           stop-opacity="1"
+           stop-color="rgb(72, 40, 120)"
+           offset="88.88888888888889%" />
+        <stop
+           id="stop36"
+           stop-opacity="1"
+           stop-color="rgb(68, 1, 84)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <clipPath
+       id="legendfd5d40">
+      <rect
+         id="rect666"
+         y="0"
+         x="0"
+         height="58"
+         width="368" />
+    </clipPath>
+  </defs>
+  <defs
+     id="topdefs-5b2c5c">
+    <g
+       id="g674"
+       class="clips" />
+    <clipPath
+       id="legend5b2c5c">
+      <rect
+         id="rect676"
+         y="0"
+         x="0"
+         height="58"
+         width="368" />
+    </clipPath>
+  </defs>
+  <g
+     id="g2230">
+    <g
+       class="bglayer"
+       id="g42" />
+    <g
+       class="layer-below"
+       id="g48">
+      <g
+         class="imagelayer"
+         id="g44" />
+      <g
+         class="shapelayer"
+         id="g46" />
+    </g>
+    <g
+       class="cartesianlayer"
+       id="g656">
+      <g
+         class="subplot xy"
+         id="g654">
+        <g
+           class="layer-subplot"
+           id="g54">
+          <g
+             class="shapelayer"
+             id="g50" />
+          <g
+             class="imagelayer"
+             id="g52" />
+        </g>
+        <g
+           class="gridlayer"
+           id="g76">
+          <g
+             class="x"
+             id="g64">
+            <path
+               class="xgrid crisp"
+               transform="translate(174,0)"
+               d="M0,76v564"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path56" />
+            <path
+               class="xgrid crisp"
+               transform="translate(288,0)"
+               d="M0,76v564"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path58" />
+            <path
+               class="xgrid crisp"
+               transform="translate(402,0)"
+               d="M0,76v564"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path60" />
+            <path
+               class="xgrid crisp"
+               transform="translate(516,0)"
+               d="M0,76v564"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path62" />
+          </g>
+          <g
+             class="y"
+             id="g74">
+            <path
+               class="ygrid crisp"
+               transform="translate(0,527.2)"
+               d="M60,0h570"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path66" />
+            <path
+               class="ygrid crisp"
+               transform="translate(0,414.4)"
+               d="M60,0h570"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path68" />
+            <path
+               class="ygrid crisp"
+               transform="translate(0,301.6)"
+               d="M60,0h570"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path70" />
+            <path
+               class="ygrid crisp"
+               transform="translate(0,188.8)"
+               d="M60,0h570"
+               style="stroke: rgb(232, 232, 232); stroke-opacity: 1; stroke-width: 1px;"
+               id="path72" />
+          </g>
+        </g>
+        <g
+           class="zerolinelayer"
+           id="g78" />
+        <path
+           class="xlines-below"
+           id="path80" />
+        <path
+           class="ylines-below"
+           id="path82" />
+        <g
+           class="overlines-below"
+           id="g84" />
+        <g
+           class="xaxislayer-below"
+           id="g86" />
+        <g
+           class="yaxislayer-below"
+           id="g88" />
+        <g
+           class="overaxes-below"
+           id="g90" />
+        <g
+           class="plot"
+           transform="translate(60,76)"
+           clip-path="url('#clip5b2c5cxyplot')"
+           id="g566">
+          <g
+             class="scatterlayer mlayer"
+             id="g564">
+            <g
+               class="trace scatter tracea1c96811-e25b-48d8-b7ab-2340faf62755"
+               style="stroke-miterlimit: 2; opacity: 1;"
+               id="g398">
+              <g
+                 class="fills"
+                 id="g92" />
+              <g
+                 class="errorbars"
+                 id="g316">
+                <g
+                   class="errorbar"
+                   id="g98">
+                  <path
+                     class="yerror"
+                     d="M67.82,491.35h8m-4,0V497.85m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path94" />
+                  <path
+                     class="xerror"
+                     d="M73.69,490.6v8m0,-4H69.95m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path96" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g104">
+                  <path
+                     class="yerror"
+                     d="M103.16,135.62h8m-4,0V164m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path100" />
+                  <path
+                     class="xerror"
+                     d="M109.95,145.81v8m0,-4H104.37m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path102" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g110">
+                  <path
+                     class="yerror"
+                     d="M79.22,401.01h8m-4,0V412.7m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path106" />
+                  <path
+                     class="xerror"
+                     d="M85.38,402.85v8m0,-4H81.06m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path108" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g116">
+                  <path
+                     class="yerror"
+                     d="M205.76,144.91h8m-4,0V172.34m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path112" />
+                  <path
+                     class="xerror"
+                     d="M215.21,154.63v8m0,-4H204.31m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path114" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g122">
+                  <path
+                     class="yerror"
+                     d="M176.12,187.89h8m-4,0V212.67m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path118" />
+                  <path
+                     class="xerror"
+                     d="M184.8,196.28v8m0,-4H175.44m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path120" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g128">
+                  <path
+                     class="yerror"
+                     d="M141.92,372.38h8m-4,0V385.4m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path124" />
+                  <path
+                     class="xerror"
+                     d="M149.71,374.89v8m0,-4H142.13m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path126" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g134">
+                  <path
+                     class="yerror"
+                     d="M151.04,153.21h8m-4,0V179.93m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path130" />
+                  <path
+                     class="xerror"
+                     d="M159.07,162.57v8m0,-4H151.01m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path132" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g140">
+                  <path
+                     class="yerror"
+                     d="M139.64,370.32h8m-4,0V383.66m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path136" />
+                  <path
+                     class="xerror"
+                     d="M147.37,372.99v8m0,-4H139.91m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path138" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g146">
+                  <path
+                     class="yerror"
+                     d="M146.48,346.42h8m-4,0V360.97m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path142" />
+                  <path
+                     class="xerror"
+                     d="M154.39,349.69v8m0,-4H146.57m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path144" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g152">
+                  <path
+                     class="yerror"
+                     d="M168.14,300.58h8m-4,0V317.46m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path148" />
+                  <path
+                     class="xerror"
+                     d="M176.62,305.02v8m0,-4H167.66m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path150" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g158">
+                  <path
+                     class="yerror"
+                     d="M211.46,432.64h8m-4,0V441.86m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path154" />
+                  <path
+                     class="xerror"
+                     d="M221.06,433.25v8m0,-4H209.86m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path156" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g164">
+                  <path
+                     class="yerror"
+                     d="M151.04,163.53h8m-4,0V189.68m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path160" />
+                  <path
+                     class="xerror"
+                     d="M159.07,172.61v8m0,-4H151.01m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path162" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g170">
+                  <path
+                     class="yerror"
+                     d="M363.08,334.69h8m-4,0V349.83m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path166" />
+                  <path
+                     class="xerror"
+                     d="M376.62,338.26v8m0,-4H357.54m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path168" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g176">
+                  <path
+                     class="yerror"
+                     d="M140.78,292.9h8m-4,0V310.35m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path172" />
+                  <path
+                     class="xerror"
+                     d="M148.54,297.63v8m0,-4H141.02m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path174" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g182">
+                  <path
+                     class="yerror"
+                     d="M529.52,219.37h8m-4,0V242.09m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path178" />
+                  <path
+                     class="xerror"
+                     d="M547.39,226.73v8m0,-4H519.65m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path180" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g188">
+                  <path
+                     class="yerror"
+                     d="M119.12,187.02h8m-4,0V211.49m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path184" />
+                  <path
+                     class="xerror"
+                     d="M126.32,195.26v8m0,-4H119.92m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path186" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g194">
+                  <path
+                     class="yerror"
+                     d="M160.16,274.59h8m-4,0V293.29m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path190" />
+                  <path
+                     class="xerror"
+                     d="M168.43,279.94v8m0,-4H159.89m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path192" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g200">
+                  <path
+                     class="yerror"
+                     d="M140.78,335.95h8m-4,0V351.26m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path196" />
+                  <path
+                     class="xerror"
+                     d="M148.54,339.61v8m0,-4H141.02m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path198" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g206">
+                  <path
+                     class="yerror"
+                     d="M105.44,133.42h8m-4,0V161.6m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path202" />
+                  <path
+                     class="xerror"
+                     d="M112.29,143.51v8m0,-4H106.59m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path204" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g212">
+                  <path
+                     class="yerror"
+                     d="M165.86,321.33h8m-4,0V337.2m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path208" />
+                  <path
+                     class="xerror"
+                     d="M174.28,325.26v8m0,-4H165.44m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path210" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g218">
+                  <path
+                     class="yerror"
+                     d="M185.24,384.45h8m-4,0V396.16m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path214" />
+                  <path
+                     class="xerror"
+                     d="M194.16,386.3v8m0,-4H184.32m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path216" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g224">
+                  <path
+                     class="yerror"
+                     d="M88.34,176.9h8m-4,0V202.19m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path220" />
+                  <path
+                     class="xerror"
+                     d="M94.74,185.54v8m0,-4H89.94m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path222" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g230">
+                  <path
+                     class="yerror"
+                     d="M133.94,439.63h8m-4,0V448.5m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path226" />
+                  <path
+                     class="xerror"
+                     d="M141.53,440.06v8m0,-4H134.35m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path228" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g236">
+                  <path
+                     class="yerror"
+                     d="M110,175.43h8m-4,0V200.57m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path232" />
+                  <path
+                     class="xerror"
+                     d="M116.96,184v8m0,-4H111.04m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path234" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g242">
+                  <path
+                     class="yerror"
+                     d="M125.96000000000001,427.23h8m-4,0V436.72m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path238" />
+                  <path
+                     class="xerror"
+                     d="M133.34,427.98v8m0,-4H126.58m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path240" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g248">
+                  <path
+                     class="yerror"
+                     d="M130.52,122.81h8m-4,0V151.96m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path244" />
+                  <path
+                     class="xerror"
+                     d="M138.02,133.38v8m0,-4H131.02m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path246" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g254">
+                  <path
+                     class="yerror"
+                     d="M97.46,342.39h8m-4,0V356.58m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path250" />
+                  <path
+                     class="xerror"
+                     d="M104.1,345.49v8m0,-4H98.82m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path252" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g260">
+                  <path
+                     class="yerror"
+                     d="M147.62,401.29h8m-4,0V412.19m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path256" />
+                  <path
+                     class="xerror"
+                     d="M155.56,402.74v8m0,-4H147.68m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path258" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g266">
+                  <path
+                     class="yerror"
+                     d="M130.52,236.64h8m-4,0V257.53m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path262" />
+                  <path
+                     class="xerror"
+                     d="M138.02,243.09v8m0,-4H131.02m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path264" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g272">
+                  <path
+                     class="yerror"
+                     d="M165.86,297.55h8m-4,0V314.89m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path268" />
+                  <path
+                     class="xerror"
+                     d="M174.28,302.22v8m0,-4H165.44m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path270" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g278">
+                  <path
+                     class="yerror"
+                     d="M173.84,117.92h8m-4,0V147.49m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path274" />
+                  <path
+                     class="xerror"
+                     d="M182.46,128.71v8m0,-4H173.22m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path276" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g284">
+                  <path
+                     class="yerror"
+                     d="M196.64,184.08h8m-4,0V208.63m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path280" />
+                  <path
+                     class="xerror"
+                     d="M205.86,192.36v8m0,-4H195.42m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path282" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g290">
+                  <path
+                     class="yerror"
+                     d="M99.74,423.25h8m-4,0V432.47m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path286" />
+                  <path
+                     class="xerror"
+                     d="M106.44,423.86v8m0,-4H101.04m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path288" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g296">
+                  <path
+                     class="yerror"
+                     d="M155.6,102.58h8m-4,0V133.22m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path292" />
+                  <path
+                     class="xerror"
+                     d="M163.75,113.9v8m0,-4H155.45m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path294" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g302">
+                  <path
+                     class="yerror"
+                     d="M131.66,417.05h8m-4,0V427.16m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path298" />
+                  <path
+                     class="xerror"
+                     d="M139.19,418.11v8m0,-4H132.13m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path300" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g308">
+                  <path
+                     class="yerror"
+                     d="M178.4,351.93h8m-4,0V365.88m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path304" />
+                  <path
+                     class="xerror"
+                     d="M187.14,354.91v8m0,-4H177.66m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path306" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g314">
+                  <path
+                     class="yerror"
+                     d="M140.78,221.05h8m-4,0V243.73m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path310" />
+                  <path
+                     class="xerror"
+                     d="M148.54,228.39v8m0,-4H141.02m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path312" />
+                </g>
+              </g>
+              <g
+                 class="lines"
+                 id="g318" />
+              <g
+                 class="points"
+                 id="g394">
+                <path
+                   class="point"
+                   transform="translate(71.82,494.6)"
+                   d="M7.33,0A7.33,7.33 0 1,1 0,-7.33A7.33,7.33 0 0,1 7.33,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(124, 209, 79); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path320" />
+                <path
+                   class="point"
+                   transform="translate(107.16,149.81)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(38, 130, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path322" />
+                <path
+                   class="point"
+                   transform="translate(83.22,406.85)"
+                   d="M5.05,0A5.05,5.05 0 1,1 0,-5.05A5.05,5.05 0 0,1 5.05,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(53, 93, 140); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path324" />
+                <path
+                   class="point"
+                   transform="translate(209.76,158.63)"
+                   d="M4.85,0A4.85,4.85 0 1,1 0,-4.85A4.85,4.85 0 0,1 4.85,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(38, 130, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path326" />
+                <path
+                   class="point"
+                   transform="translate(180.12,200.28)"
+                   d="M4.64,0A4.64,4.64 0 1,1 0,-4.64A4.64,4.64 0 0,1 4.64,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(33, 160, 136); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path328" />
+                <path
+                   class="point"
+                   transform="translate(145.92,378.89)"
+                   d="M6.27,0A6.27,6.27 0 1,1 0,-6.27A6.27,6.27 0 0,1 6.27,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(33, 160, 136); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path330" />
+                <path
+                   class="point"
+                   transform="translate(155.04,166.57)"
+                   d="M4.23,0A4.23,4.23 0 1,1 0,-4.23A4.23,4.23 0 0,1 4.23,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(75, 192, 108); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path332" />
+                <path
+                   class="point"
+                   transform="translate(143.64,376.99)"
+                   d="M5.61,0A5.61,5.61 0 1,1 0,-5.61A5.61,5.61 0 0,1 5.61,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(37, 134, 141); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path334" />
+                <path
+                   class="point"
+                   transform="translate(150.48,353.69)"
+                   d="M5.86,0A5.86,5.86 0 1,1 0,-5.86A5.86,5.86 0 0,1 5.86,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(70, 190, 111); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path336" />
+                <path
+                   class="point"
+                   transform="translate(172.14,309.02)"
+                   d="M5.42,0A5.42,5.42 0 1,1 0,-5.42A5.42,5.42 0 0,1 5.42,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(108, 205, 89); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path338" />
+                <path
+                   class="point"
+                   transform="translate(215.46,437.25)"
+                   d="M13.32,0A13.32,13.32 0 1,1 0,-13.32A13.32,13.32 0 0,1 13.32,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(56, 87, 139); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path340" />
+                <path
+                   class="point"
+                   transform="translate(155.04,176.61)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(44, 173, 127); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path342" />
+                <path
+                   class="point"
+                   transform="translate(367.08,342.26)"
+                   d="M12.03,0A12.03,12.03 0 1,1 0,-12.03A12.03,12.03 0 0,1 12.03,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(70, 47, 124); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path344" />
+                <path
+                   class="point"
+                   transform="translate(144.78,301.63)"
+                   d="M5.02,0A5.02,5.02 0 1,1 0,-5.02A5.02,5.02 0 0,1 5.02,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(49, 178, 124); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path346" />
+                <path
+                   class="point"
+                   transform="translate(533.52,230.73)"
+                   d="M11.36,0A11.36,11.36 0 1,1 0,-11.36A11.36,11.36 0 0,1 11.36,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(70, 18, 100); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path348" />
+                <path
+                   class="point"
+                   transform="translate(123.12,199.26)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(33, 150, 138); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path350" />
+                <path
+                   class="point"
+                   transform="translate(164.16,283.94)"
+                   d="M5.3,0A5.3,5.3 0 1,1 0,-5.3A5.3,5.3 0 0,1 5.3,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(60, 186, 117); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path352" />
+                <path
+                   class="point"
+                   transform="translate(144.78,343.61)"
+                   d="M5.91,0A5.91,5.91 0 1,1 0,-5.91A5.91,5.91 0 0,1 5.91,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(52, 97, 141); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path354" />
+                <path
+                   class="point"
+                   transform="translate(109.44,147.51)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(35, 163, 134); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path356" />
+                <path
+                   class="point"
+                   transform="translate(169.86,329.26)"
+                   d="M6.02,0A6.02,6.02 0 1,1 0,-6.02A6.02,6.02 0 0,1 6.02,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(108, 205, 89); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path358" />
+                <path
+                   class="point"
+                   transform="translate(189.24,390.3)"
+                   d="M7.55,0A7.55,7.55 0 1,1 0,-7.55A7.55,7.55 0 0,1 7.55,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(116, 207, 84); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path360" />
+                <path
+                   class="point"
+                   transform="translate(92.34,189.54)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(44, 173, 127); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path362" />
+                <path
+                   class="point"
+                   transform="translate(137.94,444.06)"
+                   d="M9.45,0A9.45,9.45 0 1,1 0,-9.45A9.45,9.45 0 0,1 9.45,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(236, 229, 38); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path364" />
+                <path
+                   class="point"
+                   transform="translate(114,188)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(117, 208, 84); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path366" />
+                <path
+                   class="point"
+                   transform="translate(129.96,431.98)"
+                   d="M7.57,0A7.57,7.57 0 1,1 0,-7.57A7.57,7.57 0 0,1 7.57,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(63, 187, 115); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path368" />
+                <path
+                   class="point"
+                   transform="translate(134.52,137.38)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(79, 194, 106); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path370" />
+                <path
+                   class="point"
+                   transform="translate(101.46,349.49)"
+                   d="M4.95,0A4.95,4.95 0 1,1 0,-4.95A4.95,4.95 0 0,1 4.95,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(62, 186, 116); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path372" />
+                <path
+                   class="point"
+                   transform="translate(151.62,406.74)"
+                   d="M6.98,0A6.98,6.98 0 1,1 0,-6.98A6.98,6.98 0 0,1 6.98,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(43, 118, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path374" />
+                <path
+                   class="point"
+                   transform="translate(134.52,247.09)"
+                   d="M4.71,0A4.71,4.71 0 1,1 0,-4.71A4.71,4.71 0 0,1 4.71,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(88, 197, 101); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path376" />
+                <path
+                   class="point"
+                   transform="translate(169.86,306.22)"
+                   d="M5.77,0A5.77,5.77 0 1,1 0,-5.77A5.77,5.77 0 0,1 5.77,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(141, 213, 68); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path378" />
+                <path
+                   class="point"
+                   transform="translate(177.84,132.71)"
+                   d="M4.31,0A4.31,4.31 0 1,1 0,-4.31A4.31,4.31 0 0,1 4.31,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(136, 212, 72); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path380" />
+                <path
+                   class="point"
+                   transform="translate(200.64,196.36)"
+                   d="M4.72,0A4.72,4.72 0 1,1 0,-4.72A4.72,4.72 0 0,1 4.72,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(88, 197, 101); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path382" />
+                <path
+                   class="point"
+                   transform="translate(103.74,427.86)"
+                   d="M6.44,0A6.44,6.44 0 1,1 0,-6.44A6.44,6.44 0 0,1 6.44,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(39, 167, 131); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path384" />
+                <path
+                   class="point"
+                   transform="translate(159.6,117.9)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(253, 231, 37); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path386" />
+                <path
+                   class="point"
+                   transform="translate(135.66,422.11)"
+                   d="M10.31,0A10.31,10.31 0 1,1 0,-10.31A10.31,10.31 0 0,1 10.31,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(138, 212, 70); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path388" />
+                <path
+                   class="point"
+                   transform="translate(182.4,358.91)"
+                   d="M7.39,0A7.39,7.39 0 1,1 0,-7.39A7.39,7.39 0 0,1 7.39,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(110, 206, 88); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path390" />
+                <path
+                   class="point"
+                   transform="translate(144.78,232.39)"
+                   d="M4,0A4,4 0 1,1 0,-4A4,4 0 0,1 4,0Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(51, 99, 141); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path392" />
+              </g>
+              <g
+                 class="text"
+                 id="g396" />
+            </g>
+            <g
+               class="trace scatter trace1c62370e-49a2-4d74-9474-1ac8a29a2602"
+               style="stroke-miterlimit: 2; opacity: 1;"
+               id="g426">
+              <g
+                 class="fills"
+                 id="g400" />
+              <g
+                 class="errorbars"
+                 id="g414">
+                <g
+                   class="errorbar"
+                   id="g406">
+                  <path
+                     class="yerror"
+                     d="M51.86,509.87h8m-4,0V515.21m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path402" />
+                  <path
+                     class="xerror"
+                     d="M57.31,508.53999999999996v8m0,-4H54.41m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path404" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g412">
+                  <path
+                     class="yerror"
+                     d="M0.5599999999999996,555.15h8m-4,0V556.01m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path408" />
+                  <path
+                     class="xerror"
+                     d="M4.68,551.58v8m0,-4H4.44m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path410" />
+                </g>
+              </g>
+              <g
+                 class="lines"
+                 id="g416" />
+              <g
+                 class="points"
+                 id="g422">
+                <path
+                   class="point"
+                   transform="translate(55.86,512.54)"
+                   d="M2.56,-3.51H10.8L4.12,1.34L6.68,9.19L0,4.34L-6.68,9.19L-4.12,1.34L-10.8,-3.51H-2.56L0,-11.36Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(40, 168, 130); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path418" />
+                <path
+                   class="point"
+                   transform="translate(4.56,555.58)"
+                   d="M1.26,-1.73H5.33L2.03,0.66L3.29,4.53L0,2.14L-3.29,4.53L-2.03,0.66L-5.33,-1.73H-1.26L0,-5.6Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(68, 68, 68); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path420" />
+              </g>
+              <g
+                 class="text"
+                 id="g424" />
+            </g>
+            <g
+               class="trace scatter trace01de6529-e2a6-4364-8174-fc67c2fa453c"
+               style="stroke-miterlimit: 2; opacity: 1;"
+               id="g462">
+              <g
+                 class="fills"
+                 id="g428" />
+              <g
+                 class="errorbars"
+                 id="g448">
+                <g
+                   class="errorbar"
+                   id="g434">
+                  <path
+                     class="yerror"
+                     d="M182.96,267.91h8m-4,0V287.36m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path430" />
+                  <path
+                     class="xerror"
+                     d="M191.82,273.63v8m0,-4H182.1m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path432" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g440">
+                  <path
+                     class="yerror"
+                     d="M148.76,171.38h8m-4,0V197.07m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path436" />
+                  <path
+                     class="xerror"
+                     d="M156.73,180.22v8m0,-4H148.79m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path438" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g446">
+                  <path
+                     class="yerror"
+                     d="M532.94,270.39h8m-4,0V289.38m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path442" />
+                  <path
+                     class="xerror"
+                     d="M550.9,275.89v8m0,-4H522.98m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path444" />
+                </g>
+              </g>
+              <g
+                 class="lines"
+                 id="g450" />
+              <g
+                 class="points"
+                 id="g458">
+                <path
+                   class="point"
+                   transform="translate(186.96,277.63)"
+                   d="M4.34,4.34H-4.34V-4.34H4.34Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(38, 131, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path452" />
+                <path
+                   class="point"
+                   transform="translate(152.76,184.22)"
+                   d="M4,4H-4V-4H4Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(126, 210, 78); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path454" />
+                <path
+                   class="point"
+                   transform="translate(536.94,279.89)"
+                   d="M10.42,10.42H-10.42V-10.42H10.42Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(68, 1, 84); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path456" />
+              </g>
+              <g
+                 class="text"
+                 id="g460" />
+            </g>
+            <g
+               class="trace scatter trace282a17ef-b350-4941-b9cc-ef87c147bb8c"
+               style="stroke-miterlimit: 2; opacity: 1;"
+               id="g562">
+              <g
+                 class="fills"
+                 id="g464" />
+              <g
+                 class="errorbars"
+                 id="g532">
+                <g
+                   class="errorbar"
+                   id="g470">
+                  <path
+                     class="yerror"
+                     d="M237.68,251.03h8m-4,0V271.56m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path466" />
+                  <path
+                     class="xerror"
+                     d="M247.96,257.3v8m0,-4H235.4m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path468" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g476">
+                  <path
+                     class="yerror"
+                     d="M169.28,384.05h8m-4,0V396.87m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path472" />
+                  <path
+                     class="xerror"
+                     d="M177.79,386.46v8m0,-4H168.77m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path474" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g482">
+                  <path
+                     class="yerror"
+                     d="M459.98,336.59h8m-4,0V351.66m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path478" />
+                  <path
+                     class="xerror"
+                     d="M476.04,340.13v8m0,-4H451.92m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path480" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g488">
+                  <path
+                     class="yerror"
+                     d="M162.44,504.77h8m-4,0V509.58m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path484" />
+                  <path
+                     class="xerror"
+                     d="M170.77,503.17v8m0,-4H162.11m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path486" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g494">
+                  <path
+                     class="yerror"
+                     d="M153.32,317.33h8m-4,0V333.17m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path490" />
+                  <path
+                     class="xerror"
+                     d="M161.41,321.25v8m0,-4H153.23m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path492" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g500">
+                  <path
+                     class="yerror"
+                     d="M107.72,446.43h8m-4,0V455.05m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path496" />
+                  <path
+                     class="xerror"
+                     d="M114.62,446.74v8m0,-4H108.82m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path498" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g506">
+                  <path
+                     class="yerror"
+                     d="M339.14,326.16h8m-4,0V342.4m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path502" />
+                  <path
+                     class="xerror"
+                     d="M352.06,330.28v8m0,-4H334.22m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path504" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g512">
+                  <path
+                     class="yerror"
+                     d="M107.72,276.95h8m-4,0V295.55m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path508" />
+                  <path
+                     class="xerror"
+                     d="M114.62,282.25v8m0,-4H108.82m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path510" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g518">
+                  <path
+                     class="yerror"
+                     d="M120.26,318.79h8m-4,0V334.49m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path514" />
+                  <path
+                     class="xerror"
+                     d="M127.49,322.64v8m0,-4H121.03m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path516" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g524">
+                  <path
+                     class="yerror"
+                     d="M161.3,431.66h8m-4,0V440.78m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path520" />
+                  <path
+                     class="xerror"
+                     d="M169.6,432.22v8m0,-4H161m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path522" />
+                </g>
+                <g
+                   class="errorbar"
+                   id="g530">
+                  <path
+                     class="yerror"
+                     d="M110,241.89h8m-4,0V262.9m-4,0h8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path526" />
+                  <path
+                     class="xerror"
+                     d="M116.96,248.4v8m0,-4H111.04m0,-4v8"
+                     style="vector-effect: non-scaling-stroke; stroke-width: 1px; stroke: rgb(169, 169, 169); stroke-opacity: 1;"
+                     id="path528" />
+                </g>
+              </g>
+              <g
+                 class="lines"
+                 id="g534" />
+              <g
+                 class="points"
+                 id="g558">
+                <path
+                   class="point"
+                   transform="translate(241.68,261.3)"
+                   d="M5.51,0L0,5.51L-5.51,0L0,-5.51Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(55, 89, 140); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path536" />
+                <path
+                   class="point"
+                   transform="translate(173.28,390.46)"
+                   d="M6.15,0L0,6.15L-6.15,0L0,-6.15Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(50, 102, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path538" />
+                <path
+                   class="point"
+                   transform="translate(463.98,344.13)"
+                   d="M13.93,0L0,13.93L-13.93,0L0,-13.93Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(68, 5, 88); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path540" />
+                <path
+                   class="point"
+                   transform="translate(166.44,507.17)"
+                   d="M18.31,0L0,18.31L-18.31,0L0,-18.31Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(71, 31, 111); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path542" />
+                <path
+                   class="point"
+                   transform="translate(157.32,325.25)"
+                   d="M5.2,0L0,5.2L-5.2,0L0,-5.2Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(40, 126, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path544" />
+                <path
+                   class="point"
+                   transform="translate(111.72,450.74)"
+                   d="M6.23,0L0,6.23L-6.23,0L0,-6.23Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(44, 115, 142); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path546" />
+                <path
+                   class="point"
+                   transform="translate(343.14,334.28)"
+                   d="M10.6,0L0,10.6L-10.6,0L0,-10.6Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(72, 35, 116); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path548" />
+                <path
+                   class="point"
+                   transform="translate(111.72,286.25)"
+                   d="M5.2,0L0,5.2L-5.2,0L0,-5.2Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(36, 137, 141); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path550" />
+                <path
+                   class="point"
+                   transform="translate(124.26,326.64)"
+                   d="M5.2,0L0,5.2L-5.2,0L0,-5.2Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(105, 204, 91); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path552" />
+                <path
+                   class="point"
+                   transform="translate(165.3,436.22)"
+                   d="M7.73,0L0,7.73L-7.73,0L0,-7.73Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(69, 49, 125); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path554" />
+                <path
+                   class="point"
+                   transform="translate(114,252.4)"
+                   d="M5.2,0L0,5.2L-5.2,0L0,-5.2Z"
+                   style="opacity: 0.7; stroke-width: 1px; fill: rgb(34, 147, 139); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                   id="path556" />
+              </g>
+              <g
+                 class="text"
+                 id="g560" />
+            </g>
+          </g>
+        </g>
+        <g
+           class="overplot"
+           id="g568" />
+        <path
+           class="xlines-above crisp"
+           d="M58.7,640.65H631.3M58.7,75.35H631.3"
+           style="fill: none; stroke-width: 1.3px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+           id="path570" />
+        <path
+           class="ylines-above crisp"
+           d="M59.35,76V640M630.65,76V640"
+           style="fill: none; stroke-width: 1.3px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+           id="path572" />
+        <g
+           class="overlines-above"
+           id="g574" />
+        <g
+           class="xaxislayer-above"
+           id="g612">
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(60,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path576" />
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(174,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path578" />
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(288,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path580" />
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(402,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path582" />
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(516,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path584" />
+          <path
+             class="xtick ticks crisp"
+             d="M0,641.3v5"
+             transform="translate(630,0)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path586" />
+          <g
+             class="xtick"
+             id="g590">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(60,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text588">0</text>
+          </g>
+          <g
+             class="xtick"
+             id="g594">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(174,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text592">1</text>
+          </g>
+          <g
+             class="xtick"
+             id="g598">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(288,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text596">2</text>
+          </g>
+          <g
+             class="xtick"
+             id="g602">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(402,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text600">3</text>
+          </g>
+          <g
+             class="xtick"
+             id="g606">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(516,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text604">4</text>
+          </g>
+          <g
+             class="xtick"
+             id="g610">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="665.5"
+               transform="translate(630,0)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text608">5</text>
+          </g>
+        </g>
+        <g
+           class="yaxislayer-above"
+           id="g650">
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,640)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path614" />
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,527.2)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path616" />
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,414.4)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path618" />
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,301.6)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path620" />
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,188.8)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path622" />
+          <path
+             class="ytick ticks crisp"
+             d="M58.7,0h-5"
+             transform="translate(0,76)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path624" />
+          <g
+             class="ytick"
+             id="g628">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,640)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text626">0</text>
+          </g>
+          <g
+             class="ytick"
+             id="g632">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,527.2)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text630">0.2</text>
+          </g>
+          <g
+             class="ytick"
+             id="g636">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,414.4)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text634">0.4</text>
+          </g>
+          <g
+             class="ytick"
+             id="g640">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,301.6)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text638">0.6</text>
+          </g>
+          <g
+             class="ytick"
+             id="g644">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,188.8)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text642">0.8</text>
+          </g>
+          <g
+             class="ytick"
+             id="g648">
+            <text
+               text-anchor="end"
+               x="50.5"
+               y="5.6"
+               transform="translate(0,76)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text646">1</text>
+          </g>
+        </g>
+        <g
+           class="overaxes-above"
+           id="g652" />
+      </g>
+    </g>
+    <g
+       class="polarlayer"
+       id="g658" />
+    <g
+       class="ternarylayer"
+       id="g660" />
+    <g
+       class="geolayer"
+       id="g662" />
+    <g
+       class="funnelarealayer"
+       id="g664" />
+    <g
+       class="pielayer"
+       id="g666" />
+    <g
+       class="treemaplayer"
+       id="g668" />
+    <g
+       class="sunburstlayer"
+       id="g670" />
+    <g
+       class="glimages"
+       id="g672" />
+    <g
+       class="layer-above"
+       id="g684">
+      <g
+         class="imagelayer"
+         id="g680" />
+      <g
+         class="shapelayer"
+         id="g682" />
+    </g>
+    <g
+       class="infolayer"
+       id="g868">
+      <g
+         class="cbcoloraxis colorbar"
+         transform="translate(60,76)"
+         id="g844">
+        <rect
+           class="cbbg"
+           x="580.5"
+           y="-0.5"
+           width="86.453125"
+           height="565"
+           style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 0;"
+           id="rect768" />
+        <g
+           class="cbfills"
+           transform="translate(0,35)"
+           id="g772">
+          <rect
+             class="cbfill"
+             x="591"
+             width="30"
+             y="0"
+             height="519"
+             style="fill: url('#g5b2c5c-cbcoloraxis');"
+             id="rect770" />
+        </g>
+        <g
+           class="cblines"
+           transform="translate(0,35)"
+           id="g774" />
+        <g
+           class="cbaxis crisp"
+           transform="translate(0,-76)"
+           id="g830">
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,585.094375)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path776" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,529.884375)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path778" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,474.67437499999994)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path780" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,419.464375)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path782" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,364.254375)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path784" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,309.04437499999995)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path786" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,253.83437499999997)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path788" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,198.624375)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path790" />
+          <path
+             class="ycbcoloraxistick ticks crisp"
+             d="M621,0h5"
+             transform="translate(0,143.42437499999997)"
+             style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+             id="path792" />
+          <g
+             class="ycbcoloraxistick"
+             id="g796">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,585.094375)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text794">−24</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g800">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,529.884375)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text798">−22</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g804">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,474.67437499999994)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text802">−20</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g808">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,419.464375)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text806">−18</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g812">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,364.254375)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text810">−16</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g816">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,309.04437499999995)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text814">−14</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g820">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,253.83437499999997)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text818">−12</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g824">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,198.624375)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text822">−10</text>
+          </g>
+          <g
+             class="ycbcoloraxistick"
+             id="g828">
+            <text
+               text-anchor="start"
+               x="629.2"
+               y="5.6"
+               transform="translate(0,143.42437499999997)"
+               style="font-family: Arial; font-size: 16px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text826">−8</text>
+          </g>
+        </g>
+        <g
+           class="cbtitleunshift"
+           transform="translate(-60,-76)"
+           id="g840">
+          <g
+             class="cbtitle"
+             transform="translate(-0.5,-0.5)"
+             id="g838">
+            <g
+               class="ycbcoloraxistitle"
+               style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+               id="text836"
+               aria-label="δ​34​S (‰)">
+              <path
+                 id="path2723"
+                 style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+                 d="m 652.7594,89.546875 h 6.25781 V 90.6875 h -4.375 q 0.78125,0.796875 2.44531,1.945312 1.48438,1.03125 2.07032,1.914063 0.58593,0.882812 0.58593,2.390625 0,2.023437 -1.09375,3.14063 -1.08593,1.10937 -2.83593,1.10937 -1.91407,0 -2.88282,-1.25 -0.96875,-1.25 -0.96875,-2.96875 0,-2 1.02344,-3.046875 1.02344,-1.054688 2.44531,-1.109375 -0.72656,-0.507813 -2.67187,-2.25 z m 0.64062,7.4375 q 0,1.328125 0.69532,2.1875 0.70312,0.859375 1.78906,0.859375 0.95312,0 1.67969,-0.734375 0.73437,-0.734375 0.73437,-2.320313 0,-1.46875 -0.69531,-2.273437 -0.69531,-0.804688 -1.75,-0.804688 -1.16406,0 -1.8125,0.90625 -0.64063,0.90625 -0.64063,2.179688 z" />
+              <path
+                 id="path2725"
+                 style="font-size:70%"
+                 d="m 660.77659,92.163594 0.98437,-0.13125 q 0.16953,0.836718 0.57422,1.208593 0.41016,0.366406 0.99531,0.366406 0.69453,0 1.17032,-0.481249 0.48125,-0.48125 0.48125,-1.192188 0,-0.678125 -0.44297,-1.115625 -0.44297,-0.442969 -1.12657,-0.442969 -0.2789,0 -0.69453,0.109375 l 0.10938,-0.864062 q 0.0984,0.01094 0.15859,0.01094 0.62891,0 1.13203,-0.328125 0.50313,-0.328125 0.50313,-1.011718 0,-0.541407 -0.36641,-0.896875 -0.3664,-0.355469 -0.94609,-0.355469 -0.57422,0 -0.95703,0.360937 -0.38282,0.360938 -0.49219,1.082813 l -0.98438,-0.175 q 0.18047,-0.989844 0.82032,-1.53125 0.63984,-0.546875 1.5914,-0.546875 0.65625,0 1.2086,0.284375 0.55234,0.278906 0.84218,0.765625 0.29532,0.486719 0.29532,1.033594 0,0.519531 -0.27891,0.946093 -0.27891,0.426563 -0.82578,0.678125 0.71094,0.164063 1.10469,0.683594 0.39375,0.514063 0.39375,1.290625 0,1.05 -0.76563,1.782812 -0.76562,0.727344 -1.93594,0.727344 -1.05546,0 -1.75546,-0.628906 -0.69454,-0.628906 -0.79297,-1.629687 z" />
+              <path
+                 id="path2727"
+                 style="font-size:70%"
+                 d="m 670.16096,94.28 v -1.919531 h -3.47812 v -0.902344 l 3.65859,-5.195313 h 0.80391 v 5.195313 h 1.08281 v 0.902344 h -1.08281 V 94.28 Z m 0,-2.821875 v -3.614844 l -2.51015,3.614844 z" />
+              <path
+                 id="path2729"
+                 style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+                 d="m 673.49377,97.320312 1.42969,-0.125 q 0.10156,0.859375 0.46875,1.414063 0.375,0.546875 1.15625,0.890625 0.78125,0.335937 1.75781,0.335937 0.86719,0 1.53125,-0.257812 0.66407,-0.257813 0.98438,-0.703125 0.32812,-0.453125 0.32812,-0.984375 0,-0.539063 -0.3125,-0.9375 -0.3125,-0.40625 -1.03125,-0.679688 -0.46093,-0.179687 -2.03906,-0.554687 -1.57812,-0.382813 -2.21094,-0.71875 -0.82031,-0.429688 -1.22656,-1.0625 -0.39844,-0.640625 -0.39844,-1.429688 0,-0.867187 0.49219,-1.617187 0.49219,-0.757813 1.4375,-1.148438 0.94531,-0.390625 2.10156,-0.390625 1.27344,0 2.24219,0.414063 0.97656,0.40625 1.5,1.203125 0.52344,0.796875 0.5625,1.804687 l -1.45312,0.109375 q -0.11719,-1.085937 -0.79688,-1.640625 -0.67187,-0.554687 -1.99219,-0.554687 -1.375,0 -2.00781,0.507812 -0.625,0.5 -0.625,1.210938 0,0.617187 0.44531,1.015625 0.4375,0.398437 2.28125,0.820312 1.85157,0.414063 2.53907,0.726563 1,0.460937 1.47656,1.171875 0.47656,0.703125 0.47656,1.625 0,0.914062 -0.52344,1.726562 -0.52343,0.804683 -1.50781,1.257813 -0.97656,0.44531 -2.20312,0.44531 -1.55469,0 -2.60938,-0.45312 -1.04687,-0.45313 -1.64844,-1.359378 -0.59375,-0.914062 -0.625,-2.0625 z" />
+              <path
+                 id="path2731"
+                 style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+                 d="m 691.64221,104.36719 q -1.16406,-1.46875 -1.96875,-3.4375 -0.80469,-1.968753 -0.80469,-4.078128 0,-1.859375 0.60157,-3.5625 0.70312,-1.976562 2.17187,-3.9375 h 1.00781 q -0.94531,1.625 -1.25,2.320313 -0.47656,1.078125 -0.75,2.25 -0.33593,1.460937 -0.33593,2.9375 0,3.757815 2.33593,7.507815 z" />
+              <path
+                 id="path2733"
+                 style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+                 d="m 695.74377,101.42187 4.69532,-12.070308 h 1.02343 l -4.6875,12.070308 z m -2.21093,-9.007808 q 0,-1.554687 0.60937,-2.257812 0.61719,-0.710938 1.625,-0.710938 1,0 1.625,0.710938 0.625,0.710937 0.625,2.226562 0,1.53125 -0.54687,2.3125 -0.54688,0.773438 -1.6875,0.773438 -1,0 -1.625,-0.726563 -0.625,-0.726562 -0.625,-2.328125 z m 1.15625,0.0625 q 0,1.1875 0.30468,1.601563 0.3125,0.414062 0.82032,0.414062 0.46093,0 0.71093,-0.351562 0.33594,-0.46875 0.33594,-1.679688 0,-1.1875 -0.34375,-1.679687 -0.26562,-0.367188 -0.73437,-0.367188 -0.48438,0 -0.74219,0.359375 -0.35156,0.492188 -0.35156,1.703125 z m 4.51562,5.898438 q 0,-1.554688 0.60938,-2.257813 0.61718,-0.710937 1.61718,-0.710937 1,0 1.625,0.710937 0.63282,0.710938 0.63282,2.226563 0,1.53125 -0.54688,2.30469 -0.54687,0.77343 -1.6875,0.77343 -1,0 -1.625,-0.71875 -0.625,-0.726558 -0.625,-2.32812 z m 1.15625,0.0625 q 0,1.179687 0.30469,1.60156 0.3125,0.41406 0.82031,0.41406 0.46094,0 0.71094,-0.35156 0.33594,-0.47656 0.33594,-1.679685 0,-1.195313 -0.35157,-1.679688 -0.26562,-0.367187 -0.72656,-0.367187 -0.48437,0 -0.74219,0.359375 -0.35156,0.484375 -0.35156,1.703125 z m 4.10938,-0.0625 q 0,-1.554688 0.60937,-2.257813 0.61719,-0.710937 1.625,-0.710937 1,0 1.625,0.710937 0.625,0.710938 0.625,2.226563 0,1.53125 -0.54687,2.30469 -0.53907,0.77343 -1.6875,0.77343 -1,0 -1.625,-0.71875 -0.625,-0.726558 -0.625,-2.32812 z m 1.15625,0.0625 q 0,1.179687 0.30468,1.60156 0.3125,0.41406 0.82032,0.41406 0.46093,0 0.71093,-0.35156 0.33594,-0.47656 0.33594,-1.679685 0,-1.195313 -0.34375,-1.679688 -0.26562,-0.367187 -0.73437,-0.367187 -0.48438,0 -0.74219,0.359375 -0.35156,0.484375 -0.35156,1.703125 z" />
+              <path
+                 id="path2735"
+                 style="font-weight:normal;font-size:16px;font-family:Arial;text-anchor:start;white-space:pre;opacity:1;fill:#000000"
+                 d="m 711.22034,104.36719 h -1.00782 q 2.33594,-3.75 2.33594,-7.507815 0,-1.46875 -0.33594,-2.914063 -0.26562,-1.171875 -0.74218,-2.25 -0.30469,-0.703125 -1.25782,-2.34375 h 1.00782 q 1.46875,1.960938 2.17187,3.9375 0.60156,1.703125 0.60156,3.5625 0,2.109375 -0.8125,4.078128 -0.80468,1.96875 -1.96093,3.4375 z" />
+            </g>
+          </g>
+        </g>
+        <rect
+           class="cboutline"
+           x="591"
+           y="34.734375"
+           width="30"
+           height="519.265625"
+           style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: none; stroke-width: 1;"
+           id="rect842" />
+      </g>
+      <g
+         class="g-gtitle"
+         id="g846" />
+      <g
+         class="g-xtitle"
+         transform="translate(0,-14.299999999999955)"
+         id="g854">
+        <g
+           class="xtitle"
+           style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+           id="text852"
+           aria-label="[Fe​py​] (wt%)">
+          <path
+             id="path2673"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="M 295.9748,711.07587 V 693.6994 h 3.68311 v 1.38233 h -2.01318 v 14.61181 h 2.01318 v 1.38233 z" />
+          <path
+             id="path2675"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="M 301.51338,707.29999 V 693.6994 h 9.17529 v 1.60498 h -7.37549 v 4.21192 h 6.38282 v 1.60498 h -6.38282 v 6.17871 z" />
+          <path
+             id="path2677"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 319.56709,704.12714 1.72559,0.21338 q -0.40821,1.5122 -1.51221,2.34716 -1.10401,0.83496 -2.82031,0.83496 -2.16162,0 -3.43262,-1.32666 -1.26172,-1.33593 -1.26172,-3.73877 0,-2.48632 1.28027,-3.85937 1.28028,-1.37305 3.32129,-1.37305 1.97608,0 3.22852,1.34522 1.25244,1.34521 1.25244,3.78515 0,0.14844 -0.009,0.44532 h -7.34765 q 0.0928,1.62353 0.91845,2.48632 0.82569,0.8628 2.05957,0.8628 0.91846,0 1.56787,-0.48242 0.64942,-0.48243 1.02979,-1.54004 z m -5.48291,-2.69971 h 5.50146 q -0.11132,-1.24316 -0.63085,-1.86475 -0.79786,-0.96484 -2.06885,-0.96484 -1.15039,0 -1.93897,0.77002 -0.77929,0.77002 -0.86279,2.05957 z" />
+          <path
+             id="path2679"
+             style="font-size:70%"
+             d="m 323.0229,713.9331 v -9.53989 h 1.06504 v 0.89619 q 0.37666,-0.52602 0.85073,-0.78579 0.47407,-0.26626 1.14946,-0.26626 0.88321,0 1.5586,0.45459 0.67539,0.45459 1.01958,1.28584 0.34419,0.82476 0.34419,1.81187 0,1.05854 -0.38316,1.90927 -0.37666,0.84424 -1.104,1.29883 -0.72085,0.4481 -1.51963,0.4481 -0.58447,0 -1.05205,-0.24678 -0.46108,-0.24678 -0.75981,-0.62344 v 3.35747 z m 1.05855,-6.05254 q 0,1.3313 0.53901,1.96773 0.53901,0.63642 1.30532,0.63642 0.7793,0 1.3313,-0.6559 0.5585,-0.66241 0.5585,-2.04566 0,-1.31831 -0.54551,-1.97422 -0.53902,-0.6559 -1.29234,-0.6559 -0.74682,0 -1.3248,0.70136 -0.57148,0.69488 -0.57148,2.02617 z" />
+          <path
+             id="path2681"
+             style="font-size:70%"
+             d="m 330.37427,713.94609 -0.12989,-1.09751 q 0.38316,0.10391 0.6689,0.10391 0.38965,0 0.62344,-0.12988 0.23379,-0.12989 0.38315,-0.36368 0.1104,-0.17534 0.35718,-0.87021 0.0325,-0.0974 0.10391,-0.28574 l -2.61714,-6.90977 h 1.25986 l 1.43521,3.9939 q 0.27924,0.75981 0.50005,1.59756 0.20131,-0.80528 0.48056,-1.57159 l 1.47417,-4.01987 h 1.16895 l -2.62364,7.01367 q -0.42211,1.13648 -0.6559,1.56509 -0.31172,0.57798 -0.71436,0.84424 -0.40264,0.27275 -0.96113,0.27275 -0.3377,0 -0.75332,-0.14287 z" />
+          <path
+             id="path2683"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 340.24444,711.07587 h -3.68311 v -1.38233 h 2.01318 v -14.61181 h -2.01318 v -1.38233 h 3.68311 z" />
+          <path
+             id="path2685"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 351.18242,711.29852 q -1.38232,-1.74414 -2.33789,-4.08203 -0.95556,-2.33789 -0.95556,-4.84277 0,-2.20801 0.71435,-4.23047 0.83496,-2.34717 2.5791,-4.67578 h 1.19678 q -1.12256,1.92969 -1.48437,2.75537 -0.56592,1.28027 -0.89063,2.67187 -0.39893,1.73487 -0.39893,3.48829 0,4.4624 2.77393,8.91552 z" />
+          <path
+             id="path2687"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 356.15508,707.29999 -3.01514,-9.85254 h 1.72559 l 1.56787,5.68701 0.58447,2.11524 q 0.0371,-0.15772 0.51026,-2.03174 l 1.56787,-5.77051 h 1.71631 l 1.47509,5.71484 0.4917,1.8833 0.56592,-1.90185 1.68848,-5.69629 h 1.62353 l -3.08008,9.85254 h -1.73486 l -1.56787,-5.90039 -0.38037,-1.6792 -1.99463,7.57959 z" />
+          <path
+             id="path2689"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 371.71319,705.80634 0.24121,1.47509 q -0.70508,0.14844 -1.26172,0.14844 -0.90918,0 -1.41016,-0.2876 -0.50098,-0.28759 -0.70508,-0.75146 -0.2041,-0.47315 -0.2041,-1.97608 v -5.66845 h -1.22461 v -1.29883 h 1.22461 v -2.43994 l 1.66065,-1.00196 v 3.4419 h 1.6792 v 1.29883 h -1.6792 v 5.76123 q 0,0.71435 0.0835,0.91845 0.0928,0.20411 0.2876,0.32471 0.2041,0.12061 0.57519,0.12061 0.27833,0 0.73292,-0.0649 z" />
+          <path
+             id="path2691"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 373.18828,696.96503 q 0,-1.45655 0.73291,-2.47705 0.73291,-1.02051 2.12451,-1.02051 1.28028,0 2.11524,0.91846 0.84424,0.90918 0.84424,2.68115 0,1.72558 -0.85352,2.6626 -0.84424,0.92773 -2.0874,0.92773 -1.23389,0 -2.05957,-0.91846 -0.81641,-0.91845 -0.81641,-2.77392 z m 2.90381,-2.34717 q -0.62158,0 -1.03906,0.53809 -0.4082,0.53808 -0.4082,1.97607 0,1.3081 0.41748,1.84619 0.41748,0.52881 1.02978,0.52881 0.63086,0 1.03906,-0.53809 0.41748,-0.53808 0.41748,-1.96679 0,-1.31739 -0.41748,-1.84619 -0.41748,-0.53809 -1.03906,-0.53809 z m 0.009,13.1831 7.44043,-14.33349 h 1.35449 l -7.4126,14.33349 z m 5.88183,-3.69238 q 0,-1.46582 0.73291,-2.47705 0.73291,-1.02051 2.13379,-1.02051 1.28028,0 2.11524,0.91846 0.84424,0.90918 0.84424,2.68115 0,1.72559 -0.85352,2.6626 -0.84424,0.92773 -2.09668,0.92773 -1.23389,0 -2.05957,-0.91845 -0.81641,-0.92774 -0.81641,-2.77393 z m 2.91309,-2.34717 q -0.63086,0 -1.04834,0.53809 -0.4082,0.53809 -0.4082,1.97607 0,1.29883 0.41748,1.83692 0.41748,0.53808 1.02978,0.53808 0.64014,0 1.04834,-0.53808 0.41748,-0.53809 0.41748,-1.9668 0,-1.31738 -0.41748,-1.84619 -0.41748,-0.53809 -1.03906,-0.53809 z" />
+          <path
+             id="path2693"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 391.31621,711.29852 h -1.19677 q 2.77392,-4.45312 2.77392,-8.91552 0,-1.74414 -0.39892,-3.46045 -0.31543,-1.3916 -0.88135,-2.67188 -0.36182,-0.83496 -1.49365,-2.7832 h 1.19677 q 1.74414,2.32861 2.5791,4.67578 0.71436,2.02246 0.71436,4.23047 0,2.50488 -0.96484,4.84277 -0.95557,2.33789 -2.32862,4.08203 z" />
+        </g>
+      </g>
+      <g
+         class="g-ytitle"
+         transform="translate(5.2998046875,0)"
+         id="g866">
+        <g
+           class="ytitle"
+           style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+           id="text864"
+           transform="rotate(-90,11.700000000000003,358)"
+           aria-label="[Fe​py​]/[Fe​HR​]">
+          <path
+             id="path2696"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m -39.013672,361.77588 v -17.37647 h 3.683105 v 1.38233 h -2.013183 v 14.61181 h 2.013183 v 1.38233 z" />
+          <path
+             id="path2698"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m -33.475098,358 v -13.60059 h 9.175293 v 1.60498 h -7.375488 v 4.21192 h 6.382812 v 1.60498 h -6.382812 V 358 Z" />
+          <path
+             id="path2700"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m -15.421387,354.82715 1.725586,0.21338 q -0.408203,1.5122 -1.512207,2.34717 -1.104004,0.83496 -2.820313,0.83496 -2.161621,0 -3.432617,-1.32666 -1.261719,-1.33594 -1.261719,-3.73877 0,-2.48633 1.280274,-3.85938 1.280273,-1.37305 3.321289,-1.37305 1.976074,0 3.228515,1.34522 1.252442,1.34521 1.252442,3.78516 0,0.14843 -0.0093,0.44531 h -7.347657 q 0.09277,1.62353 0.918457,2.48633 0.825684,0.86279 2.059571,0.86279 0.918457,0 1.567871,-0.48242 0.649414,-0.48242 1.029785,-1.54004 z m -5.48291,-2.69971 h 5.501465 q -0.111329,-1.24316 -0.63086,-1.86474 -0.797851,-0.96485 -2.068847,-0.96485 -1.150391,0 -1.938965,0.77002 -0.779297,0.77002 -0.862793,2.05957 z" />
+          <path
+             id="path2702"
+             style="font-size:70%"
+             d="m -11.965577,364.63312 v -9.5399 h 1.065039 v 0.89619 q 0.376661,-0.52602 0.850733,-0.78579 0.4740722,-0.26626 1.1494628,-0.26626 0.8832032,0 1.5585938,0.45459 0.6753906,0.45459 1.0195801,1.28584 0.3441895,0.82476 0.3441895,1.81187 0,1.05854 -0.3831543,1.90928 -0.3766602,0.84423 -1.104004,1.29882 -0.7208496,0.4481 -1.5196289,0.4481 -0.5844727,0 -1.052051,-0.24678 -0.461084,-0.24678 -0.759814,-0.62344 v 3.35748 z m 1.058545,-6.05254 q 0,1.3313 0.539014,1.96772 0.5390137,0.63643 1.3053223,0.63643 0.7792969,0 1.3312989,-0.65591 0.5584961,-0.6624 0.5584961,-2.04566 0,-1.31831 -0.5455079,-1.97421 -0.5390136,-0.65591 -1.292334,-0.65591 -0.7468261,0 -1.3248044,0.70136 -0.571485,0.69488 -0.571485,2.02618 z" />
+          <path
+             id="path2704"
+             style="font-size:70%"
+             d="m -4.6142094,364.6461 -0.1298828,-1.09751 q 0.3831543,0.10391 0.6688965,0.10391 0.3896484,0 0.6234375,-0.12988 0.2337891,-0.12989 0.3831543,-0.36367 0.1104004,-0.17535 0.3571777,-0.87022 0.032471,-0.0974 0.1039063,-0.28574 l -2.6171387,-6.90977 h 1.2598633 l 1.4352051,3.9939 q 0.279248,0.75981 0.5000488,1.59756 0.2013184,-0.80528 0.4805664,-1.57158 l 1.47416996,-4.01988 H 1.0941403 l -2.6236329,7.01367 q -0.4221191,1.13648 -0.6559082,1.56509 -0.3117187,0.57798 -0.7143555,0.84424 -0.4026367,0.27275 -0.9611328,0.27275 -0.3376953,0 -0.7533203,-0.14287 z" />
+          <path
+             id="path2706"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="M 5.2559581,361.77588 H 1.5728527 v -1.38232 H 3.5860363 V 345.78174 H 1.5728527 v -1.38233 h 3.6831054 z" />
+          <path
+             id="path2708"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 6.4805675,358.23193 3.9428715,-14.06445 h 1.335937 l -3.9335937,14.06445 z" />
+          <path
+             id="path2710"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 13.03965,361.77588 v -17.37647 h 3.683105 v 1.38233 h -2.013184 v 14.61182 h 2.013184 v 1.38232 z" />
+          <path
+             id="path2712"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 18.578224,358 v -13.60059 h 9.175293 v 1.60499 h -7.375489 v 4.21191 h 6.382813 v 1.60498 H 20.378028 V 358 Z" />
+          <path
+             id="path2714"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 36.631935,354.82715 1.725586,0.21338 q -0.408203,1.5122 -1.512207,2.34717 -1.104004,0.83496 -2.820313,0.83496 -2.161621,0 -3.432617,-1.32666 -1.261719,-1.33594 -1.261719,-3.73877 0,-2.48633 1.280274,-3.85938 1.280273,-1.37304 3.321289,-1.37304 1.976074,0 3.228515,1.34521 1.252442,1.34521 1.252442,3.78516 0,0.14843 -0.0093,0.44531 h -7.347656 q 0.09277,1.62353 0.918457,2.48633 0.825684,0.86279 2.05957,0.86279 0.918457,0 1.567872,-0.48242 0.649414,-0.48242 1.029785,-1.54004 z m -5.48291,-2.69971 h 5.501464 q -0.111328,-1.24316 -0.630859,-1.86474 -0.797852,-0.96485 -2.068848,-0.96485 -1.15039,0 -1.938964,0.77002 -0.779297,0.77002 -0.862793,2.05957 z" />
+          <path
+             id="path2716"
+             style="font-size:70%"
+             d="m 40.276075,361.99 v -9.52041 h 1.259864 v 3.90947 h 4.948535 v -3.90947 h 1.259863 V 361.99 h -1.259863 v -4.48745 H 41.535939 V 361.99 Z" />
+          <path
+             id="path2718"
+             style="font-size:70%"
+             d="m 49.867921,361.99 v -9.52041 h 4.221192 q 1.272851,0 1.935253,0.25977 0.662403,0.25327 1.058545,0.90268 0.396143,0.64942 0.396143,1.43521 0,1.01308 -0.655908,1.70796 -0.655908,0.69487 -2.026172,0.8832 0.500049,0.24028 0.759814,0.47407 0.552002,0.50654 1.045557,1.26636 l 1.656006,2.59116 h -1.58457 l -1.259864,-1.98071 q -0.552002,-0.85723 -0.909179,-1.31182 -0.357178,-0.45459 -0.64292,-0.63642 -0.279248,-0.18184 -0.571485,-0.25328 -0.214306,-0.0455 -0.701367,-0.0455 H 51.127784 V 361.99 Z m 1.259863,-5.3187 h 2.708057 q 0.863721,0 1.350781,-0.17534 0.487061,-0.18184 0.740332,-0.57149 0.253272,-0.39614 0.253272,-0.85722 0,-0.67539 -0.493555,-1.1105 -0.48706,-0.43511 -1.545605,-0.43511 h -3.013282 z" />
+          <path
+             id="path2720"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 62.478614,361.77588 h -3.683105 v -1.38232 h 2.013184 v -14.61182 h -2.013184 v -1.38232 h 3.683105 z" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-5.2693917,8.0286936)"
+       id="g1876">
+      <g
+         id="g752"
+         clip-path="url(#legendfd5d40)"
+         class="scrollbox"
+         transform="translate(57.555196,-0.16608681)">
+        <g
+           id="g750"
+           class="groups">
+          <g
+             id="g694"
+             style="opacity:1"
+             transform="translate(0,16.9)"
+             class="traces">
+            <text
+               id="text678"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               y="6.2399998"
+               x="40"
+               text-anchor="start"
+               class="legendtext">Mudstone</text>
+            <g
+               id="g690"
+               style="opacity:1"
+               class="layers">
+              <g
+                 id="g680-2"
+                 class="legendfill" />
+              <g
+                 id="g682-1"
+                 class="legendlines" />
+              <g
+                 id="g688"
+                 class="legendsymbols">
+                <g
+                   id="g686"
+                   class="legendpoints">
+                  <path
+                     id="path684"
+                     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+                     d="M 6,0 A 6,6 0 1 1 0,-6 6,6 0 0 1 6,0 Z"
+                     transform="translate(20)"
+                     class="scatterpts" />
+                </g>
+              </g>
+            </g>
+            <rect
+               id="rect692"
+               style="fill:#000000;fill-opacity:0"
+               height="23.799999"
+               width="112.875"
+               y="-11.9"
+               x="0"
+               class="legendtoggle" />
+          </g>
+          <g
+             id="g712"
+             style="opacity:1"
+             transform="translate(247.75,16.9)"
+             class="traces">
+            <text
+               id="text696"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               y="6.2399998"
+               x="40"
+               text-anchor="start"
+               class="legendtext">Carbonate</text>
+            <g
+               id="g708"
+               style="opacity:1"
+               class="layers">
+              <g
+                 id="g698"
+                 class="legendfill" />
+              <g
+                 id="g700"
+                 class="legendlines" />
+              <g
+                 id="g706"
+                 class="legendsymbols">
+                <g
+                   id="g704"
+                   class="legendpoints">
+                  <path
+                     id="path702"
+                     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+                     d="m 1.89,-2.6 h 6.1 L 3.05,0.99 4.94,6.8 0,3.21 -4.94,6.8 -3.05,0.99 -7.99,-2.6 h 6.1 L 0,-8.4 Z"
+                     transform="translate(20)"
+                     class="scatterpts" />
+                </g>
+              </g>
+            </g>
+            <rect
+               id="rect710"
+               style="fill:#000000;fill-opacity:0"
+               height="23.799999"
+               width="117.32812"
+               y="-11.9"
+               x="0"
+               class="legendtoggle" />
+          </g>
+          <g
+             id="g730"
+             style="opacity:1"
+             transform="translate(0,40.7)"
+             class="traces">
+            <text
+               id="text714"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               y="6.2399998"
+               x="40"
+               text-anchor="start"
+               class="legendtext">Pervasively pyritised regions</text>
+            <g
+               id="g726"
+               style="opacity:1"
+               class="layers">
+              <g
+                 id="g716"
+                 class="legendfill" />
+              <g
+                 id="g718"
+                 class="legendlines" />
+              <g
+                 id="g724"
+                 class="legendsymbols">
+                <g
+                   id="g722"
+                   class="legendpoints">
+                  <path
+                     id="path720"
+                     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     class="scatterpts" />
+                </g>
+              </g>
+            </g>
+            <rect
+               id="rect728"
+               style="fill:#000000;fill-opacity:0"
+               height="23.799999"
+               width="245.25"
+               y="-11.9"
+               x="0"
+               class="legendtoggle" />
+          </g>
+          <g
+             id="g748"
+             style="opacity:1"
+             transform="translate(247.75,40.7)"
+             class="traces">
+            <text
+               id="text732"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               y="6.2399998"
+               x="40"
+               text-anchor="start"
+               class="legendtext">Bed 22</text>
+            <g
+               id="g744"
+               style="opacity:1"
+               class="layers">
+              <g
+                 id="g734"
+                 class="legendfill" />
+              <g
+                 id="g736"
+                 class="legendlines" />
+              <g
+                 id="g742"
+                 class="legendsymbols">
+                <g
+                   id="g740"
+                   class="legendpoints">
+                  <path
+                     id="path738"
+                     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+                     d="M 7.8,0 0,7.8 -7.8,0 0,-7.8 Z"
+                     transform="translate(20)"
+                     class="scatterpts" />
+                </g>
+              </g>
+            </g>
+            <rect
+               id="rect746"
+               style="fill:#000000;fill-opacity:0"
+               height="23.799999"
+               width="93.21875"
+               y="-11.9"
+               x="0"
+               class="legendtoggle" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1789">
+        <g
+           class="xtitle"
+           style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+           id="text1690"
+           transform="translate(-2.4448041,-0.16608681)"
+           aria-label="[Fetot]">
+          <path
+             id="path3187"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="M 486.7941,37.403809 V 20.027344 h 3.68311 v 1.382324 h -2.01318 v 14.611816 h 2.01318 v 1.382325 z" />
+          <path
+             id="path3189"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="M 492.33268,33.62793 V 20.027344 h 9.17529 v 1.60498 h -7.37549 v 4.211914 h 6.38282 v 1.604981 h -6.38282 v 6.178711 z" />
+          <path
+             id="path3191"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 510.38639,30.455078 1.72559,0.213379 q -0.40821,1.512207 -1.51221,2.347168 -1.10401,0.834961 -2.82031,0.834961 -2.16163,0 -3.43262,-1.32666 -1.26172,-1.335938 -1.26172,-3.73877 0,-2.486328 1.28027,-3.859375 1.28028,-1.373047 3.32129,-1.373047 1.97608,0 3.22852,1.345215 1.25244,1.345215 1.25244,3.785156 0,0.148438 -0.009,0.445313 h -7.34765 q 0.0928,1.623535 0.91845,2.486328 0.82569,0.862793 2.05957,0.862793 0.91846,0 1.56787,-0.482422 0.64942,-0.482422 1.02979,-1.540039 z m -5.48291,-2.699707 h 5.50146 q -0.11132,-1.243164 -0.63086,-1.864746 -0.79785,-0.964844 -2.06884,-0.964844 -1.15039,0 -1.93897,0.77002 -0.77929,0.770019 -0.86279,2.05957 z" />
+          <path
+             id="path3193"
+             style="font-size:65%;baseline-shift:sub"
+             d="m 516.14948,36.457056 0.15678,0.958813 q -0.4583,0.09648 -0.82011,0.09648 -0.59097,0 -0.91661,-0.186938 -0.32563,-0.186938 -0.4583,-0.488452 -0.13266,-0.307544 -0.13266,-1.284448 v -3.684497 h -0.796 V 31.02378 h 0.796 v -1.585962 l 1.07942,-0.65127 v 2.237232 h 1.09148 v 0.844238 H 515.058 v 3.744799 q 0,0.464331 0.0543,0.596997 0.0603,0.132666 0.18694,0.21106 0.13266,0.07839 0.37387,0.07839 0.18091,0 0.4764,-0.04221 z" />
+          <path
+             id="path3195"
+             style="font-size:65%;baseline-shift:sub"
+             d="m 516.80075,34.225855 q 0,-1.778931 0.98896,-2.63523 0.82615,-0.711572 2.01411,-0.711572 1.32063,0 2.15884,0.868359 0.83821,0.862329 0.83821,2.387988 0,1.236206 -0.37388,1.947779 -0.36785,0.705542 -1.07942,1.097509 -0.70554,0.391968 -1.54375,0.391968 -1.34475,0 -2.17693,-0.862329 -0.82614,-0.862329 -0.82614,-2.484472 z m 1.1156,0 q 0,1.230175 0.53669,1.845263 0.53669,0.609058 1.35078,0.609058 0.80806,0 1.34475,-0.615088 0.5367,-0.615088 0.5367,-1.875415 0,-1.187964 -0.54273,-1.797021 -0.53669,-0.615088 -1.33872,-0.615088 -0.81409,0 -1.35078,0.609057 -0.53669,0.609058 -0.53669,1.839234 z" />
+          <path
+             id="path3197"
+             style="font-size:65%;baseline-shift:sub"
+             d="m 526.44918,36.457056 0.15679,0.958813 q -0.4583,0.09648 -0.82012,0.09648 -0.59097,0 -0.9166,-0.186938 -0.32564,-0.186938 -0.4583,-0.488452 -0.13267,-0.307544 -0.13267,-1.284448 v -3.684497 h -0.79599 V 31.02378 h 0.79599 v -1.585962 l 1.07942,-0.65127 v 2.237232 h 1.09148 v 0.844238 h -1.09148 v 3.744799 q 0,0.464331 0.0543,0.596997 0.0603,0.132666 0.18694,0.21106 0.13267,0.07839 0.37388,0.07839 0.18091,0 0.47639,-0.04221 z" />
+          <path
+             id="path3199"
+             style="font-weight:normal;font-size:19px;font-family:Arial;text-anchor:middle;white-space:pre;opacity:1;fill:#000000"
+             d="m 530.73532,37.403809 h -3.68311 v -1.382325 h 2.01318 V 21.409668 h -2.01318 v -1.382324 h 3.68311 z" />
+        </g>
+        <g
+           id="g1771"
+           transform="translate(-2.4448041,-0.00715269)">
+          <text
+             id="text1696"
+             style="font-weight:normal;font-size:19px;font-family:Arial;white-space:pre;opacity:1;fill:#000000"
+             text-anchor="middle"
+             y="29.097637"
+             x="614.35071"
+             class="xtitle"
+             transform="translate(0,-14.3)">2 wt%</text>
+          <text
+             class="xtitle"
+             x="617.76117"
+             y="48.902386"
+             text-anchor="middle"
+             style="font-weight:normal;font-size:19px;font-family:Arial;white-space:pre;opacity:1;fill:#000000"
+             id="text1747">10 wt%</text>
+          <path
+             id="path342-7"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:2;stroke-opacity:1"
+             d="m 584.23942,42.226214 a 13.32,13.32 0 1 1 -13.32,-13.32 13.32,13.32 0 0 1 13.32,13.32 z"
+             class="point" />
+          <path
+             class="point"
+             d="m 574.08043,8.1314768 a 3.1710228,3.1710228 0 1 1 -3.17102,-3.1710227 3.1710228,3.1710228 0 0 1 3.17102,3.1710227 z"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:2;stroke-opacity:1"
+             id="path324-6" />
+        </g>
+        <path
+           id="path3870"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 554.32691,56.517826 c -9.15753,0 -9.15753,-9.157564 -9.15753,-9.157564 V 31.893486 c 0,-4.57876 -4.57875,-4.57876 -4.57875,-4.57876 0,0 4.57875,0 4.57875,-4.578804 V 9.9074272 c 0,0 0,-9.1574272 9.15753,-9.1574272"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-xdpi="299.99173"
+           inkscape:export-ydpi="299.99173" />
+      </g>
+    </g>
+  </g>
+</svg>

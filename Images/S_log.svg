@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="D:\Peter\OneDrive - University Of Cambridge\Part III Project\Python\Images\S_log.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="S_log.svg"
+   id="svg266"
+   version="1.1"
+   viewBox="0 0 400 800"
+   style=""
+   height="800"
+   width="400"
+   class="main-svg">
+  <metadata
+     id="metadata270">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="layer2"
+     inkscape:cy="402.67739"
+     inkscape:cx="193.95676"
+     inkscape:zoom="1.02625"
+     showgrid="false"
+     id="namedview268"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs-94b31d">
+    <g
+       id="g16"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip94b31dxyplot">
+        <rect
+           id="rect4"
+           height="710"
+           width="310" />
+      </clipPath>
+      <clipPath
+         id="clip94b31dx"
+         class="axesclip">
+        <rect
+           id="rect7"
+           height="800"
+           width="310"
+           y="0"
+           x="60" />
+      </clipPath>
+      <clipPath
+         id="clip94b31dy"
+         class="axesclip">
+        <rect
+           id="rect10"
+           height="710"
+           width="400"
+           y="30"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip94b31dxy"
+         class="axesclip">
+        <rect
+           id="rect13"
+           height="710"
+           width="310"
+           y="30"
+           x="60" />
+      </clipPath>
+    </g>
+    <g
+       id="g18"
+       class="gradients" />
+    <clipPath
+       id="clip0ff939xyplot"
+       class="plotclip">
+      <rect
+         y="0"
+         x="0"
+         width="310"
+         height="710"
+         id="rect4-7" />
+    </clipPath>
+  </defs>
+  <g
+     id="g21"
+     class="bglayer" />
+  <g
+     id="g27"
+     class="layer-below">
+    <g
+       id="g23"
+       class="imagelayer" />
+    <g
+       id="g25"
+       class="shapelayer" />
+  </g>
+  <g
+     id="g221"
+     class="polarlayer" />
+  <g
+     id="g223"
+     class="ternarylayer" />
+  <g
+     id="g225"
+     class="geolayer" />
+  <g
+     id="g227"
+     class="funnelarealayer" />
+  <g
+     id="g229"
+     class="pielayer" />
+  <g
+     id="g231"
+     class="treemaplayer" />
+  <g
+     id="g233"
+     class="sunburstlayer" />
+  <g
+     id="g235"
+     class="glimages" />
+  <defs
+     id="topdefs-94b31d">
+    <g
+       id="g237"
+       class="clips" />
+  </defs>
+  <g
+     id="g244"
+     class="layer-above">
+    <g
+       id="g240"
+       class="imagelayer" />
+    <g
+       id="g242"
+       class="shapelayer" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:label="Accurate"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <g
+       id="g219"
+       class="cartesianlayer">
+      <g
+         id="g217"
+         class="subplot xy">
+        <g
+           id="g33"
+           class="layer-subplot">
+          <g
+             id="g29"
+             class="shapelayer" />
+          <g
+             id="g31"
+             class="imagelayer" />
+        </g>
+        <g
+           id="g51"
+           class="gridlayer">
+          <g
+             id="g39"
+             class="x">
+            <path
+               id="path35"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 0,30 V 740"
+               transform="translate(184)"
+               class="xgrid crisp" />
+            <path
+               id="path37"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 0,30 V 740"
+               transform="translate(308)"
+               class="xgrid crisp" />
+          </g>
+          <g
+             id="g49"
+             class="y">
+            <path
+               id="path41"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 60,0 H 370"
+               transform="translate(0,578.64)"
+               class="ygrid crisp" />
+            <path
+               id="path43"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 60,0 H 370"
+               transform="translate(0,417.27)"
+               class="ygrid crisp" />
+            <path
+               id="path45"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 60,0 H 370"
+               transform="translate(0,255.91)"
+               class="ygrid crisp" />
+            <path
+               id="path47"
+               style="stroke:#e8e8e8;stroke-width:1px;stroke-opacity:1"
+               d="M 60,0 H 370"
+               transform="translate(0,94.55)"
+               class="ygrid crisp" />
+          </g>
+        </g>
+        <g
+           id="g53"
+           class="zerolinelayer" />
+        <path
+           d=""
+           id="path55"
+           class="xlines-below" />
+        <path
+           d=""
+           id="path57"
+           class="ylines-below" />
+        <g
+           id="g59"
+           class="overlines-below" />
+        <g
+           id="g61"
+           class="xaxislayer-below" />
+        <g
+           id="g63"
+           class="yaxislayer-below" />
+        <g
+           id="g65"
+           class="overaxes-below" />
+        <g
+           id="g153"
+           clip-path="url(#clip94b31dxyplot)"
+           transform="translate(60,30)"
+           class="plot">
+          <g
+             id="g151"
+             class="scatterlayer mlayer">
+            <g
+               id="g127"
+               style="opacity:1;stroke-miterlimit:2"
+               class="trace scatter trace5bae87">
+              <g
+                 id="g67"
+                 class="fills" />
+              <g
+                 id="g101"
+                 class="errorbars">
+                <g
+                   id="g71"
+                   class="errorbar">
+                  <path
+                     id="path69"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 183.64,651.78 v 8 m 0,-4 h -7.87 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g75"
+                   class="errorbar">
+                  <path
+                     id="path73"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 126.86,539.47 v 8 m 0,-4 H 119 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g79"
+                   class="errorbar">
+                  <path
+                     id="path77"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 144.33,400.38 v 8 m 0,-4 h -7.86 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g83"
+                   class="errorbar">
+                  <path
+                     id="path81"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 120.89,312.27 v 8 m 0,-4 h -7.86 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g87"
+                   class="errorbar">
+                  <path
+                     id="path85"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 137.63,232.56 v 8 m 0,-4 h -7.86 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g91"
+                   class="errorbar">
+                  <path
+                     id="path89"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 105.86,143.81 v 8 m 0,-4 h -7.87 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g95"
+                   class="errorbar">
+                  <path
+                     id="path93"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 112.14,82.17 v 8 m 0,-4 h -7.86 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+                <g
+                   id="g99"
+                   class="errorbar">
+                  <path
+                     id="path97"
+                     style="vector-effect:non-scaling-stroke;stroke:#008000;stroke-width:1px;stroke-opacity:1"
+                     d="m 108.68,33.44 v 8 m 0,-4 h -7.86 m 0,-4 v 8"
+                     class="xerror" />
+                </g>
+              </g>
+              <g
+                 id="g105"
+                 class="lines">
+                <path
+                   id="path103"
+                   style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#008000;stroke-width:2px;stroke-opacity:1"
+                   d="M 179.7,655.78 122.93,543.47 140.4,404.38 116.96,316.27 133.7,236.56 101.93,147.81 108.21,86.17 104.75,37.44"
+                   class="js-line" />
+              </g>
+              <g
+                 id="g123"
+                 class="points">
+                <path
+                   id="path107"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(179.7,655.78)"
+                   class="point" />
+                <path
+                   id="path109"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(122.93,543.47)"
+                   class="point" />
+                <path
+                   id="path111"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(140.4,404.38)"
+                   class="point" />
+                <path
+                   id="path113"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(116.96,316.27)"
+                   class="point" />
+                <path
+                   id="path115"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(133.7,236.56)"
+                   class="point" />
+                <path
+                   id="path117"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(101.93,147.81)"
+                   class="point" />
+                <path
+                   id="path119"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(108.21,86.17)"
+                   class="point" />
+                <path
+                   id="path121"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                   transform="translate(104.75,37.44)"
+                   class="point" />
+              </g>
+              <g
+                 id="g125"
+                 class="text" />
+            </g>
+            <g
+               id="g149"
+               style="opacity:1;stroke-miterlimit:2"
+               class="trace scatter tracee56a59">
+              <g
+                 id="g129"
+                 class="fills" />
+              <g
+                 id="g131"
+                 class="errorbars" />
+              <g
+                 id="g133"
+                 class="lines" />
+              <g
+                 id="g145"
+                 class="points">
+                <path
+                   id="path135"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+                   transform="translate(260.87,333.7)"
+                   class="point" />
+                <path
+                   id="path137"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+                   transform="translate(110.84,333.7)"
+                   class="point" />
+                <path
+                   id="path139"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+                   transform="translate(163.84,333.7)"
+                   class="point" />
+                <path
+                   id="path141"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+                   transform="translate(201.02,333.7)"
+                   class="point" />
+                <path
+                   id="path143"
+                   style="opacity:1;fill:#008000;fill-opacity:1;stroke-width:0px"
+                   d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+                   transform="translate(284.11,161.04)"
+                   class="point" />
+              </g>
+              <g
+                 id="g147"
+                 class="text" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g155"
+           class="overplot" />
+        <path
+           id="path157"
+           style="fill:none;stroke:#000000;stroke-width:1.3px;stroke-opacity:1"
+           d="M 58.7,740.65 H 371.3 M 58.7,29.35 h 312.6"
+           class="xlines-above crisp" />
+        <path
+           id="path159"
+           style="fill:none;stroke:#000000;stroke-width:1.3px;stroke-opacity:1"
+           d="M 59.35,30 V 740 M 370.65,30 v 710"
+           class="ylines-above crisp" />
+        <g
+           id="g161"
+           class="overlines-above" />
+        <g
+           id="g181"
+           class="xaxislayer-above">
+          <path
+             id="path163"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(60)"
+             d="m 0,741.3 v 5"
+             class="xtick ticks crisp" />
+          <path
+             id="path165"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(184)"
+             d="m 0,741.3 v 5"
+             class="xtick ticks crisp" />
+          <path
+             id="path167"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(308)"
+             d="m 0,741.3 v 5"
+             class="xtick ticks crisp" />
+          <g
+             id="g171"
+             class="xtick">
+            <text
+               id="text169"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(60)"
+               y="765.5"
+               x="0"
+               text-anchor="middle">−30</text>
+          </g>
+          <g
+             id="g175"
+             class="xtick">
+            <text
+               id="text173"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(184)"
+               y="765.5"
+               x="0"
+               text-anchor="middle">−20</text>
+          </g>
+          <g
+             id="g179"
+             class="xtick">
+            <text
+               id="text177"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(308)"
+               y="765.5"
+               x="0"
+               text-anchor="middle">−10</text>
+          </g>
+        </g>
+        <g
+           id="g213"
+           class="yaxislayer-above">
+          <path
+             id="path183"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(0,740)"
+             d="m 58.7,0 h -5"
+             class="ytick ticks crisp" />
+          <path
+             id="path185"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(0,578.64)"
+             d="m 58.7,0 h -5"
+             class="ytick ticks crisp" />
+          <path
+             id="path187"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(0,417.27)"
+             d="m 58.7,0 h -5"
+             class="ytick ticks crisp" />
+          <path
+             id="path189"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(0,255.91)"
+             d="m 58.7,0 h -5"
+             class="ytick ticks crisp" />
+          <path
+             id="path191"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             transform="translate(0,94.55)"
+             d="m 58.7,0 h -5"
+             class="ytick ticks crisp" />
+          <g
+             id="g195"
+             class="ytick">
+            <text
+               id="text193"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,740)"
+               y="5.5999999"
+               x="50.5"
+               text-anchor="end">0</text>
+          </g>
+          <g
+             id="g199"
+             class="ytick">
+            <text
+               id="text197"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,578.64)"
+               y="5.5999999"
+               x="50.5"
+               text-anchor="end">5</text>
+          </g>
+          <g
+             id="g203"
+             class="ytick">
+            <text
+               id="text201"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,417.27)"
+               y="5.5999999"
+               x="50.5"
+               text-anchor="end">10</text>
+          </g>
+          <g
+             id="g207"
+             class="ytick">
+            <text
+               id="text205"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,255.91)"
+               y="5.5999999"
+               x="50.5"
+               text-anchor="end">15</text>
+          </g>
+          <g
+             id="g211"
+             class="ytick">
+            <text
+               id="text209"
+               style="font-size:16px;font-family:Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,94.55)"
+               y="5.5999999"
+               x="50.5"
+               text-anchor="end">20</text>
+          </g>
+        </g>
+        <g
+           id="g215"
+           class="overaxes-above" />
+      </g>
+    </g>
+    <g
+       id="g264"
+       class="infolayer">
+      <g
+         id="g246"
+         class="g-gtitle" />
+      <g
+         id="g254"
+         transform="translate(0,-11.3)"
+         class="g-xtitle">
+        <text
+           id="text252"
+           style="font-weight:normal;font-size:19px;font-family:Arial;white-space:pre;opacity:1;fill:#000000"
+           text-anchor="middle"
+           y="807.29999"
+           x="215"
+           class="xtitle">δ​<tspan
+   id="tspan248"
+   dy="-0.60000002em"
+   style="font-size:70%">34</tspan><tspan
+   id="tspan250"
+   dy="0.41999999em">​</tspan>S (‰)</text>
+      </g>
+      <g
+         id="g262"
+         transform="translate(5.2998047)"
+         class="g-ytitle">
+        <text
+           id="text260"
+           style="font-weight:normal;font-size:19px;font-family:Arial;white-space:pre;opacity:1;fill:#000000"
+           text-anchor="middle"
+           y="385"
+           x="11.7"
+           transform="rotate(-90,11.7,385)"
+           class="ytitle">Stratigraphic height above base of <tspan
+   id="tspan256"
+   style="font-style:italic">Pectinatites Elegans</tspan> zone, <tspan
+   id="tspan258"
+   style="font-style:italic">h</tspan> / m</text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="Original"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       class="bglayer"
+       id="g21-1" />
+    <g
+       class="layer-below"
+       id="g27-2">
+      <g
+         class="imagelayer"
+         id="g23-0" />
+      <g
+         class="shapelayer"
+         id="g25-4" />
+    </g>
+    <g
+       class="polarlayer"
+       id="g419" />
+    <g
+       class="layer-subplot"
+       id="g33-0">
+      <g
+         class="shapelayer"
+         id="g29-6" />
+      <g
+         class="imagelayer"
+         id="g31-1" />
+    </g>
+    <g
+       class="zerolinelayer"
+       id="g53-2" />
+    <path
+       d=""
+       class="xlines-below"
+       id="path55-1" />
+    <path
+       d=""
+       class="ylines-below"
+       id="path57-4" />
+    <g
+       class="overlines-below"
+       id="g59-9" />
+    <g
+       class="xaxislayer-below"
+       id="g61-2" />
+    <g
+       class="yaxislayer-below"
+       id="g63-7" />
+    <g
+       class="overaxes-below"
+       id="g65-9" />
+    <g
+       class="plot"
+       transform="translate(60,30)"
+       clip-path="url(#clip0ff939xyplot)"
+       id="g351">
+      <g
+         class="scatterlayer mlayer"
+         id="g349">
+        <g
+           class="trace scatter tracedd483e"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g307">
+          <g
+             class="fills"
+             id="g67-2" />
+          <g
+             class="errorbars"
+             id="g221-6">
+            <g
+               class="errorbar"
+               id="g71-9">
+              <path
+                 class="xerror"
+                 d="m 159.74,675.66 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path69-9" />
+            </g>
+            <g
+               class="errorbar"
+               id="g75-8">
+              <path
+                 class="xerror"
+                 d="m 113.5,661.46 v 8 m 0,-4 H 88.13 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path73-1" />
+            </g>
+            <g
+               class="errorbar"
+               id="g79-2">
+              <path
+                 class="xerror"
+                 d="m 196.89,651.78 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path77-9" />
+            </g>
+            <g
+               class="errorbar"
+               id="g83-9">
+              <path
+                 class="xerror"
+                 d="m 231.27,637.26 v 8 m 0,-4 H 205.9 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path81-4" />
+            </g>
+            <g
+               class="errorbar"
+               id="g87-0">
+              <path
+                 class="xerror"
+                 d="m 196.64,622.09 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path85-7" />
+            </g>
+            <g
+               class="errorbar"
+               id="g91-6">
+              <path
+                 class="xerror"
+                 d="m 168.25,609.18 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path89-3" />
+            </g>
+            <g
+               class="errorbar"
+               id="g95-2">
+              <path
+                 class="xerror"
+                 d="m 168.34,560.45 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path93-7" />
+            </g>
+            <g
+               class="errorbar"
+               id="g99-0">
+              <path
+                 class="xerror"
+                 d="m 134.77,539.47 v 8 m 0,-4 h -25.36 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path97-8" />
+            </g>
+            <g
+               class="errorbar"
+               id="g103">
+              <path
+                 class="xerror"
+                 d="m 193.13,507.52 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path101" />
+            </g>
+            <g
+               class="errorbar"
+               id="g107">
+              <path
+                 class="xerror"
+                 d="m 136.99,496.23 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path105" />
+            </g>
+            <g
+               class="errorbar"
+               id="g111">
+              <path
+                 class="xerror"
+                 d="m 119.52,471.38 v 8 m 0,-4 H 94.15 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path109-2" />
+            </g>
+            <g
+               class="errorbar"
+               id="g115">
+              <path
+                 class="xerror"
+                 d="m 236.3,457.18 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path113-4" />
+            </g>
+            <g
+               class="errorbar"
+               id="g119">
+              <path
+                 class="xerror"
+                 d="m 154.9,441.36 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path117-1" />
+            </g>
+            <g
+               class="errorbar"
+               id="g123-8">
+              <path
+                 class="xerror"
+                 d="m 268.9,427.16 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path121-9" />
+            </g>
+            <g
+               class="errorbar"
+               id="g127-4">
+              <path
+                 class="xerror"
+                 d="m 149.49,400.38 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path125" />
+            </g>
+            <g
+               class="errorbar"
+               id="g131-0">
+              <path
+                 class="xerror"
+                 d="m 288.83,386.18 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path129" />
+            </g>
+            <g
+               class="errorbar"
+               id="g135">
+              <path
+                 class="xerror"
+                 d="m 178.1,359.71 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path133" />
+            </g>
+            <g
+               class="errorbar"
+               id="g139">
+              <path
+                 class="xerror"
+                 d="m 141.61,344.87 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path137-7" />
+            </g>
+            <g
+               class="errorbar"
+               id="g143">
+              <path
+                 class="xerror"
+                 d="m 228.53,329.7 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path141-9" />
+            </g>
+            <g
+               class="errorbar"
+               id="g147-7">
+              <path
+                 class="xerror"
+                 d="m 165.5,312.27 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path145" />
+            </g>
+            <g
+               class="errorbar"
+               id="g151-4">
+              <path
+                 class="xerror"
+                 d="m 119.58,293.55 v 8 m 0,-4 H 94.21 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path149" />
+            </g>
+            <g
+               class="errorbar"
+               id="g155-3">
+              <path
+                 class="xerror"
+                 d="m 116.56,277.42 v 8 m 0,-4 H 91.19 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path153" />
+            </g>
+            <g
+               class="errorbar"
+               id="g159">
+              <path
+                 class="xerror"
+                 d="m 155.12,264.19 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path157-6" />
+            </g>
+            <g
+               class="errorbar"
+               id="g163">
+              <path
+                 class="xerror"
+                 d="m 73.21,250.31 v 8 m 0,-4 H 47.84 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path161" />
+            </g>
+            <g
+               class="errorbar"
+               id="g167">
+              <path
+                 class="xerror"
+                 d="m 116.17,232.56 v 8 m 0,-4 H 90.8 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path165-9" />
+            </g>
+            <g
+               class="errorbar"
+               id="g171-9">
+              <path
+                 class="xerror"
+                 d="m 140.15,218.04 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path169" />
+            </g>
+            <g
+               class="errorbar"
+               id="g175-9">
+              <path
+                 class="xerror"
+                 d="m 132.75,202.22 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path173" />
+            </g>
+            <g
+               class="errorbar"
+               id="g179-3">
+              <path
+                 class="xerror"
+                 d="m 140.77,182.86 v 8 m 0,-4 H 115.4 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path177" />
+            </g>
+            <g
+               class="errorbar"
+               id="g183">
+              <path
+                 class="xerror"
+                 d="m 208.95,157.04 v 8 m 0,-4 h -25.36 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path181" />
+            </g>
+            <g
+               class="errorbar"
+               id="g187">
+              <path
+                 class="xerror"
+                 d="m 128.59,143.81 v 8 m 0,-4 h -25.36 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path185-3" />
+            </g>
+            <g
+               class="errorbar"
+               id="g191">
+              <path
+                 class="xerror"
+                 d="m 107.43,118.31 v 8 m 0,-4 H 82.06 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path189-3" />
+            </g>
+            <g
+               class="errorbar"
+               id="g195-2">
+              <path
+                 class="xerror"
+                 d="m 109.25,93.46 v 8 m 0,-4 H 83.88 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path193" />
+            </g>
+            <g
+               class="errorbar"
+               id="g199-5">
+              <path
+                 class="xerror"
+                 d="m 128.73,82.17 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path197" />
+            </g>
+            <g
+               class="errorbar"
+               id="g203-6">
+              <path
+                 class="xerror"
+                 d="m 160.91,69.26 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path201" />
+            </g>
+            <g
+               class="errorbar"
+               id="g207-9">
+              <path
+                 class="xerror"
+                 d="m 66.91,55.38 v 8 m 0,-4 H 41.54 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path205" />
+            </g>
+            <g
+               class="errorbar"
+               id="g211-0">
+              <path
+                 class="xerror"
+                 d="m 108.52,33.44 v 8 m 0,-4 H 83.15 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path209" />
+            </g>
+            <g
+               class="errorbar"
+               id="g215-4">
+              <path
+                 class="xerror"
+                 d="m 118.92,14.07 v 8 m 0,-4 H 93.55 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path213" />
+            </g>
+            <g
+               class="errorbar"
+               id="g219-0">
+              <path
+                 class="xerror"
+                 d="m 226.25,3.42 v 8 m 0,-4 h -25.37 m 0,-4 v 8"
+                 style="vector-effect:non-scaling-stroke;stroke:#daa520;stroke-width:1px;stroke-opacity:1"
+                 id="path217" />
+            </g>
+          </g>
+          <g
+             class="lines"
+             id="g225-6">
+            <path
+               class="js-line"
+               d="m 147.05,679.66 -46.23,-14.2 83.39,-9.68 34.38,-14.52 -34.64,-15.17 -28.38,-12.91 0.09,-48.73 -33.57,-20.98 58.35,-31.95 -56.13,-11.29 -17.47,-24.85 116.78,-14.2 -81.4,-15.82 113.99,-14.2 -119.41,-26.78 139.35,-14.2 -110.74,-26.47 -36.49,-14.84 86.93,-15.17 -63.03,-17.43 -45.93,-18.72 -3.02,-16.13 38.57,-13.23 -81.92,-13.88 42.97,-17.75 23.97,-14.52 -7.39,-15.82 8.02,-19.36 68.18,-25.82 -80.36,-13.23 -21.16,-25.5 1.81,-24.85 19.48,-11.29 32.19,-12.91 -94,-13.88 41.6,-21.94 10.4,-19.37 107.33,-10.65"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#daa520;stroke-width:2px;stroke-opacity:1"
+               id="path223" />
+          </g>
+          <g
+             class="points"
+             id="g303">
+            <path
+               class="point"
+               transform="translate(147.05,679.66)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path227" />
+            <path
+               class="point"
+               transform="translate(100.82,665.46)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path229" />
+            <path
+               class="point"
+               transform="translate(184.21,655.78)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path231" />
+            <path
+               class="point"
+               transform="translate(218.59,641.26)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path233" />
+            <path
+               class="point"
+               transform="translate(183.95,626.09)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path235" />
+            <path
+               class="point"
+               transform="translate(155.57,613.18)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path237" />
+            <path
+               class="point"
+               transform="translate(155.66,564.45)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path239" />
+            <path
+               class="point"
+               transform="translate(122.09,543.47)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path241" />
+            <path
+               class="point"
+               transform="translate(180.44,511.52)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path243" />
+            <path
+               class="point"
+               transform="translate(124.31,500.23)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path245" />
+            <path
+               class="point"
+               transform="translate(106.84,475.38)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path247" />
+            <path
+               class="point"
+               transform="translate(223.62,461.18)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path249" />
+            <path
+               class="point"
+               transform="translate(142.22,445.36)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path251" />
+            <path
+               class="point"
+               transform="translate(256.21,431.16)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path253" />
+            <path
+               class="point"
+               transform="translate(136.8,404.38)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path255" />
+            <path
+               class="point"
+               transform="translate(276.15,390.18)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path257" />
+            <path
+               class="point"
+               transform="translate(165.41,363.71)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path259" />
+            <path
+               class="point"
+               transform="translate(128.92,348.87)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path261" />
+            <path
+               class="point"
+               transform="translate(215.85,333.7)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path263" />
+            <path
+               class="point"
+               transform="translate(152.82,316.27)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path265" />
+            <path
+               class="point"
+               transform="translate(106.89,297.55)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path267" />
+            <path
+               class="point"
+               transform="translate(103.87,281.42)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path269" />
+            <path
+               class="point"
+               transform="translate(142.44,268.19)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path271" />
+            <path
+               class="point"
+               transform="translate(60.52,254.31)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path273" />
+            <path
+               class="point"
+               transform="translate(103.49,236.56)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path275" />
+            <path
+               class="point"
+               transform="translate(127.46,222.04)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path277" />
+            <path
+               class="point"
+               transform="translate(120.07,206.22)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path279" />
+            <path
+               class="point"
+               transform="translate(128.09,186.86)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path281" />
+            <path
+               class="point"
+               transform="translate(196.27,161.04)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path283" />
+            <path
+               class="point"
+               transform="translate(115.91,147.81)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path285" />
+            <path
+               class="point"
+               transform="translate(94.75,122.31)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path287" />
+            <path
+               class="point"
+               transform="translate(96.56,97.46)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path289" />
+            <path
+               class="point"
+               transform="translate(116.04,86.17)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path291" />
+            <path
+               class="point"
+               transform="translate(148.23,73.26)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path293" />
+            <path
+               class="point"
+               transform="translate(54.23,59.38)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path295" />
+            <path
+               class="point"
+               transform="translate(95.83,37.44)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path297" />
+            <path
+               class="point"
+               transform="translate(106.23,18.07)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path299" />
+            <path
+               class="point"
+               transform="translate(213.56,7.42)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path301" />
+          </g>
+          <g
+             class="text"
+             id="g305" />
+        </g>
+        <g
+           class="trace scatter tracef3a52e"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g347">
+          <g
+             class="fills"
+             id="g309" />
+          <g
+             class="errorbars"
+             id="g311" />
+          <g
+             class="lines"
+             id="g313" />
+          <g
+             class="points"
+             id="g343">
+            <path
+               class="point"
+               transform="translate(183.14,511.52)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path315" />
+            <path
+               class="point"
+               transform="translate(100.13,445.36)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path317" />
+            <path
+               class="point"
+               transform="translate(287.48,161.04)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path319" />
+            <path
+               class="point"
+               transform="translate(221.91,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path321" />
+            <path
+               class="point"
+               transform="translate(210.99,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path323" />
+            <path
+               class="point"
+               transform="translate(284.6,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path325" />
+            <path
+               class="point"
+               transform="translate(267.88,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path327" />
+            <path
+               class="point"
+               transform="translate(188.29,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path329" />
+            <path
+               class="point"
+               transform="translate(198.58,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path331" />
+            <path
+               class="point"
+               transform="translate(264.64,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path333" />
+            <path
+               class="point"
+               transform="translate(177.76,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path335" />
+            <path
+               class="point"
+               transform="translate(108.14,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path337" />
+            <path
+               class="point"
+               transform="translate(254.36,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path339" />
+            <path
+               class="point"
+               transform="translate(167.99,333.7)"
+               d="M 3.6,1.2 H 1.2 V 3.6 H -1.2 V 1.2 h -2.4 v -2.4 h 2.4 v -2.4 h 2.4 v 2.4 h 2.4 z"
+               style="opacity:1;fill:#daa520;fill-opacity:1;stroke-width:0px"
+               id="path341" />
+          </g>
+          <g
+             class="text"
+             id="g345" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="overplot"
+       id="g353" />
+    <path
+       class="ylines-above crisp"
+       d="M 59.35,30 V 740 M 370.65,30 v 710"
+       style="fill:none;stroke:#000000;stroke-width:1.3px;stroke-opacity:1"
+       id="path357" />
+    <g
+       class="overlines-above"
+       id="g359" />
+    <g
+       class="overaxes-above"
+       id="g413" />
+    <g
+       class="ternarylayer"
+       id="g421" />
+    <g
+       class="geolayer"
+       id="g423" />
+    <g
+       class="funnelarealayer"
+       id="g425" />
+    <g
+       class="pielayer"
+       id="g427" />
+    <g
+       class="treemaplayer"
+       id="g429" />
+    <g
+       class="sunburstlayer"
+       id="g431" />
+    <g
+       class="glimages"
+       id="g433" />
+    <g
+       class="layer-above"
+       id="g442">
+      <g
+         class="imagelayer"
+         id="g438" />
+      <g
+         class="shapelayer"
+         id="g440" />
+    </g>
+  </g>
+</svg>

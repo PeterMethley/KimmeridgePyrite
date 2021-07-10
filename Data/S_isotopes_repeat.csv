@@ -1,0 +1,32 @@
+run_no,name,data_type,group,height,d34S_raw
+1,NBS,standard,0,,21.912
+2,NBS,standard,0,,22.039
+3,NBS,standard,0,,21.85
+4,NBS,standard,0,,22.007
+5,NBS,standard,0,,22.099
+6,NBS,standard,0,,22.054
+8,S3,standard,0,,-25.488
+9,S3,standard,0,,-26.463
+10,KC-2-2,normal,1,1.68,-10.728
+12,KC-2-5,normal,1,5.16,-14.937
+13,KC-2-11,normal,1,9.47,-13.657
+14,KC-2-15,normal,1,12.2,-15.399
+16,KC-2-19,normal,1,14.67,-14.182
+17,KC-2-23,normal,1,17.42,-16.543
+18,KC-2-27,normal,1,20.84,-16.345
+19,KC-2-22p,duplicate,1,17.01,-3.073
+20,KC-3G,duplicate,1,11.66,-4.8
+21,KC-3-I,duplicate,1,11.66,-15.926
+22,KC-3-K,duplicate,1,11.66,-12.007
+23,KC-2-25.5,normal,1,19.33,-16.143
+24,KC-3-A,duplicate,1,11.66,-9.266
+25,KC-2-2 REP,repeat,1,1.68,-11.218
+26,KC-2-22p REP,repeat,1,17.01,-3.348
+27,KC-3-I REP,repeat,1,11.66,-14.763
+28,NBS,standard,2,,22.123
+29,NBS,standard,2,,22.095
+30,NBS,standard,2,,22.074
+31,NBS,standard,2,,22.247
+32,S3,standard,2,,-25.811
+34,S3,standard,2,,-26.676
+35,S3,standard,2,,-26.577
