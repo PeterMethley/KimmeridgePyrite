@@ -24,3 +24,34 @@ graph_config = {
     'scale': 1 # Multiply title/legend/axis/canvas sizes by this factor
   },
     'displaylogo': False}
+
+
+def sel_trace(plot, value, prop='name'):
+    '''Takes a Plotly FigureWidget and returns the appropriate trace object(s) where the property prop (defaults to the trace name) matches the given values.
+    
+    Parameters:
+    -----------
+    plot: Plotly FigureWidget object to select traces from.
+    
+    value: String, or list of strings, to filter traces by
+    
+    prop: String to determine which property to filter. Defaults to 'name'. Accepts magic underscore notation.
+    
+    Returns:
+    --------
+    A list of Plotly trace objects where prop == value. If the list is only one item long, the single trace is returned.
+    '''
+    
+    if type(value) != list:
+        values = [value]
+    else:
+        values = value
+    
+    trace_list = [d for d in plot.data if d[prop] in values]
+    
+    if len(trace_list) == 1:
+        return trace_list[0]
+    elif len(trace_list) == 0:
+        print(f'No traces match the given criteria of {prop} == {value}.')
+    else:
+        return trace_list
