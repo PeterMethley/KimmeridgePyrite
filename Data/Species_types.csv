@@ -10,8 +10,11 @@ Fe_UR,[Fe<sub>UR</sub>] (wt%),SlateGrey
 Fe_HR,[Fe<sub>HR</sub>] (wt%),DarkOrange
 Fe_tot,[Fe<sub>tot</sub>] (wt%),Tomato
 d34S,δ<sup>34</sup>S (‰),RebeccaPurple
+TOC,TOC (wt%),Black
+TN,TN (wt%),Violet
+d13Corg,δ<sup>13</sup>C<sub>org</sub> (‰),DarkBlue
 H2S_decay,MSR decay rate,Purple
 fossil_index,Fossil content,Brown
 py_index,Level of fossil pyritisation,DarkGoldenRod
-phi,Modal grain size (Krumbein φ scale),Black
+phi,Modal grain size (Krumbein φ scale),Tan
 biodiversity,Number of fossil species observed,Pink
