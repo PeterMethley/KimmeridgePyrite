@@ -42,10 +42,10 @@ pio.templates['PM_graph_1'] = go.layout.Template(layout = dict(xaxis = axis_layo
                           yaxis = axis_layout,
                           bargap = 0.05, bargroupgap = 0,
                           height = 700,
-                          margin = dict(l=60, r=30, t=30, b=60),
+                          margin = dict(l=90, r=30, t=30, b=60),
                           hovermode = 'closest',
                           scene = {'xaxis': axis_layout_3D, 'yaxis': axis_layout_3D, 'zaxis': axis_layout_3D},
-                          font_family = 'Arial', font_size=16, font_color='black'))
+                          font_family = 'Segoe UI', font_size=17, font_color='black'))
                          
 pio.templates.default='PM_graph_1'
 
