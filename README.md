@@ -4,16 +4,14 @@
 
 ## Python Code for Processing, Visualisation and Modelling of Geochemical Data
 
-
-
 This code was written using Python 3.9 (from Anaconda) on Windows 10, using the JupyterLab IDE (https://jupyter.org/).
 
-You can run the code in a browser without having to install anything locally, by using Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeterMethley/KimmeridgePyrite/HEAD?urlpath=lab/tree/Data_Amalgamation.ipynb)
-*(note that the server may take a minute or two to start up)*
-
+You can run the code in a browser without having to install anything locally, by using Binder:<br/>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeterMethley/KimmeridgePyrite/HEAD?urlpath=lab/tree/Data_Amalgamation.ipynb)<br/>
+_(note that the server may take a minute or two to start up)_
 
 ### Installing Locally
+
 Python packages required:
 
 - `numpy`
@@ -28,12 +26,12 @@ In Anaconda/Miniconda, these can be installed using the terminal command `conda 
 
 To view and run ipython notebooks, I recommend using JupyterLab, which can be installed with the terminal command `conda install jupyterlab` and run by typing `jupyter lab` after navigating to this folder.
 
-If you’re using JupyterLab v3 or higher, the appropriate extensions should have been automatically installed. For older versions of JupyterLab only, full interactivity can be achieved by running the following two commands:
-`conda install notejs`
+If you’re using JupyterLab v3 or higher, the appropriate extensions should have been automatically installed. For older versions of JupyterLab only, full interactivity can be achieved by running the following two commands:<br/>
+`conda install notejs`<br/>
 `jupyter labextension install jupyterlab-plotly @jupyter-widgets/jupyterlab-manager plotlywidget`
 
-
 ### Running
+
 Once the packages are installed, the notebooks should be run from start to end in the following order:
 
 1. **`S_Isotopes.ipynb`:** corrects the raw sulphur isotope data from `./Data/S_isotopes_raw.csv`using the true isotope ratios of the NBS-127 and S3 standards and outputs the corrected $\delta^{34}\mathrm{S}$ to `./Data/S_isotopes_processed.csv`
