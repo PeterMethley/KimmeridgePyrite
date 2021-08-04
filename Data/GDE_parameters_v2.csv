@@ -1,11 +1,11 @@
-var_name,value,start,stop,step,display_name
-SO4_0,0.0105,0.001,0.3,0.001,[SO<sub>4</sub>]<sub>0</sub>
-py_0,0.16,0,1,0.0025,[FeS<sub>2</sub>]<sub>0</sub>
-d34S_SO4_0,23,0,30,0.1,"δ<sup>34</sup>S<sub>SO4, 0</sub>"
-epsilon_MSR,54,0,100,1,ε<sub>MSR</sub>
-k_MSR,10,0,40,0.1,k<sub>MSR</sub>
-v,0.12,0.001,0.5,0.001,v<sub>sed</sub>
-D_32,0.2,0.001,0.3,0.001,D<sub>32</sub>
-beta,0.025,0,0.05,0.001,β
-max_z,1.5,0.01,10,0.01,z<sub>max</sub>
-dz,0.01,0.001,0.1,0.001,dz
+var_name,value,start,stop,step,display_name,dr_min,dr_max
+SO4_0,0.0105,0.001,0.3,0.001,[SO<sub>4</sub>]<sub>0</sub>,0.008,0.013
+py_0,0.16,0,1,0.0025,[FeS<sub>2</sub>]<sub>0</sub>,0.1,0.25
+d34S_SO4_0,23,0,30,0.1,"δ<sup>34</sup>S<sub>SO4, 0</sub>",14,18
+epsilon_MSR,54,0,100,1,ε<sub>MSR</sub>,40,55
+k_MSR,10,0,40,0.1,k<sub>MSR</sub>,5,15
+v,0.12,0.001,0.5,0.001,v<sub>sed</sub>,0.005,0.2
+D_32,0.2,0.001,0.3,0.001,D<sub>32</sub>,0.1,0.3
+beta,0.025,0,0.05,0.001,β,0,0.05
+max_z,1.5,0.01,10,0.01,z<sub>max</sub>,,
+dz,0.01,0.001,0.1,0.001,dz,,
