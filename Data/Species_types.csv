@@ -1,4 +1,4 @@
-header,label,colour
+﻿header,label,colour
 HR_to_tot,[Fe<sub>HR</sub>]/[Fe<sub>tot</sub>],OrangeRed
 py_to_HR,[Fe<sub>py</sub>]/[Fe<sub>HR</sub>],Orange
 py_to_tot,[Fe<sub>py</sub>]/[Fe<sub>tot</sub>],LightGreen
@@ -13,10 +13,11 @@ d34S,δ<sup>34</sup>S<sub>py</sub> (‰),RebeccaPurple
 TOC,TOC (wt%),Black
 TN,TN (wt%),Violet
 d13Corg,δ<sup>13</sup>C<sub>org</sub> (‰),DarkBlue
-H2S_decay,MSR decay rate,Purple
+C_to_N,TOC/TN,Purple
 fossil_index,Fossil content,Brown
 py_index,Level of fossil pyritisation,DarkGoldenRod
 phi,Modal grain size (Krumbein φ scale),Tan
 biodiversity,Number of fossil species observed,Pink
 CaCO3,[CaCO<sub>3</sub>] (wt%),LightSkyBlue
-effervescence,Effervescence (qualitative),LightSkyBlue
+d13C_carb,δ<sup>13</sup>C<sub>carb</sub> (‰),Navy
+d18O_carb,δ<sup>18</sup>O<sub>carb</sub> (‰),Red
