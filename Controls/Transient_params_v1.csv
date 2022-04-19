@@ -1,6 +1,7 @@
 ﻿var_name,value,start,stop,step,display_name,dr_min,dr_max
 SO4_0,0.0105,0.001,0.3,0.001,[SO<sub>4</sub>]<sub>0</sub>,0.008,0.013
-d34S_SO4_0,23,0,30,0.1,"δ<sup>34</sup>S<sub>SO4, 0</sub>",14,18
-epsilon_MSR,54,0,100,1,ε<sub>MSR</sub>,40,55
-D_SO4,0.2,0.001,0.3,0.001,D<sub>SO4</sub>,0.1,0.3
-k_MSR,10,0,40,0.1,k<sub>MSR</sub>,5,15
+d34S_SO4_0,14,0,30,0.1,"δ<sup>34</sup>S<sub>SO4, 0</sub>",16,18
+epsilon_MSR,66,0,100,1,ε<sub>MSR</sub>,40,55
+D_SO4,0.126,0.001,0.3,0.001,D<sub>SO4</sub>,0.1,0.3
+k_MSR,7,0,40,0.1,k<sub>MSR</sub>,5,15
+v,0,0,0.5,0.001,v<sub>sed</sub>,0.005,0.2
